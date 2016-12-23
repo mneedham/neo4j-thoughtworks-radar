@@ -26,11 +26,6 @@ UNWIND range(0, size(dates)-2) AS index
 WITH dates[index] as month1, dates[index+1] AS month2
 MERGE (month1)-[:NEXT]->(month2);
 
-// appears the most
-MATCH (technology:Technology)<-[:TECHNOLOGY]-(reco)
-RETURN technology.name, COUNT(*) AS appearances
-ORDER BY appearances DESC;
-
 MATCH (tech)<-[:TECHNOLOGY]-(reco:Recommendation)-[:ON_DATE]->(date)
 WITH tech, reco, date
 ORDER BY tech.name, date.timestamp

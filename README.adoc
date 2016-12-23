@@ -5,6 +5,7 @@ This is a little project for creating a Neo4j graph from link:https://www.though
 = Get started
 
 * link:http://neo4j.com/download[Download and install Neo4j]
+* Start Neo4j by clicking `start` on the installer or `/path/to/neo4j/bin/neo4j start`
 * Clone this repository
 
 ```
@@ -25,4 +26,4 @@ cd /path/to/neo4j/
 ./bin/cypher-shell --user neo4j --password <your-password> < import.cypher
 ```
 
-* Try out the queries in link:queries.cypher[`queries.cypher`] or write some of your own.
+* Navigate to http://localhost:7474 and try out the queries in link:queries.cypher[`queries.cypher`] or write some of your own.

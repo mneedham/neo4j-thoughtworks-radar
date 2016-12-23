@@ -5,10 +5,23 @@ This is a little project for creating a Neo4j graph from link:https://www.though
 = Get started
 
 * link:http://neo4j.com/download[Download and install Neo4j]
+* Clone this repository
+
+```
+git clone git@github.com:mneedham/neo4j-thoughtworks-radar.git
+cd neo4j-thoughtworks-radar.git
+```
+
 * Copy link:import/blips.csv[`import/blips.csv`] into Neo4j's `import` directory
+
+```
+cp import/blips.csv /path/to/neo4j/import
+```
+
 * Import the Tech Radar:
 
 ```
+cd /path/to/neo4j/
 ./bin/cypher-shell --user neo4j --password <your-password> < import.cypher
 ```
 

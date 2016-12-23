@@ -1,0 +1,15 @@
+= Graphing The ThoughtWorks Technology Radar
+
+This is a little project for creating a Neo4j graph from link:https://www.thoughtworks.com/radar[The ThoughtWorks Technology Radar]
+
+= Get started
+
+* link:http://neo4j.com/download[Download and install Neo4j]
+* Copy link:import/blips.csv[`import/blips.csv] into Neo4j's `import` directory
+* Import the Tech Radar:
+
+```
+./bin/cypher-shell --user neo4j --password <your-password> < import.cypher
+```
+
+* Try out the queries in link:queries.cypher[`queries.cypher`] or write some of your own.

@@ -5,6 +5,12 @@ This is a little project for creating a Neo4j graph from link:https://www.though
 = Get started
 
 * link:http://neo4j.com/download[Download and install Neo4j]
+* Download the link:https://github.com/neo4j-contrib/neo4j-apoc-procedures/releases[latest version of APOC procedures] and copy it into `/path/to/neo4j/plugins`:
+
+```
+cp apoc-3.1.0.3-all.jar /path/to/neo4j/plugins
+```
+
 * Start Neo4j by clicking `start` on the installer or `/path/to/neo4j/bin/neo4j start`
 * Clone this repository
 

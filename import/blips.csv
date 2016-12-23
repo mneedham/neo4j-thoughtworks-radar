@@ -1,408 +1,1059 @@
 technology,date,suggestion
-Advanced analytics,Oct 2012,Adopt
-Aggregates as documents,May 2013,Adopt
-Aggregates as documents,Oct 2012,Adopt
-AngularJS,Nov 2016,Hold
-AngularJS,Apr 2016,Assess
-AngularJS,Jan 2015,Trial
-AngularJS,Jul 2014,Trial
-Agile analytics,Oct 2012,Trial
-Agile analytics,Mar 2012,Trial
-ESP8266,Apr 2016,Assess
-Flux,Apr 2016,Trial
-Flux,Nov 2015,Trial
-Flux,May 2015,Assess
-Cloud Foundry,Mar 2012,Assess
-Cloud Foundry,Jul 2011,Assess
-ATOM,Oct 2012,Adopt
-ATOM,Mar 2012,Adopt
-ATOM,Jul 2011,Adopt
-ATOM,Jan 2011,Adopt
-ATOM,Aug 2010,Adopt
-Continuous Delivery (CD),Mar 2012,Adopt
-Continuous Delivery (CD),Jul 2011,Adopt
-Decision driven BI,Jul 2011,Assess
-Ansible,Jul 2014,Adopt
-Ansible,Jan 2014,Trial
-AngularJS and Knockout,Oct 2012,Trial
-IndiaStack,Nov 2016,Assess
-ievms,Apr 2016,Assess
-ievms,Nov 2015,Assess
-Cross mobile platforms,Jan 2011,Assess
-Cross mobile platforms,Aug 2010,Assess
-Cross mobile platforms,Apr 2010,Assess
-Consumer-driven contract testing,Nov 2016,Adopt
-Consumer-driven contract testing,Nov 2015,Adopt
-Consumer-driven contract testing,May 2015,Adopt
-Development environments in the cloud,Jul 2014,Trial
-Development environments in the cloud,Jan 2014,Assess
-Development environments in the cloud,May 2013,Assess
-Component-based frameworks,May 2013,Hold
-Component-based frameworks,Oct 2012,Hold
-Ethereum,Nov 2016,Assess
-Espresso,Nov 2016,Trial
-Espresso,Nov 2015,Assess
-Dependency management for JavaScript,Jul 2014,Adopt
-Dependency management for JavaScript,Jan 2014,Adopt
-Acceptance test of journeys,Mar 2012,Trial
-Acceptance test of journeys,Jul 2011,Trial
-Acceptance test of journeys,Jan 2011,Trial
-Hosted IDE's,Apr 2016,Assess
-Hosted IDE's,Nov 2015,Assess
-Data visualizations of development and operations,Mar 2012,Adopt
-Alamofire,Apr 2016,Assess
+AppHarbor,Mar 2012,Trial
+Accumulate-only data,Nov 2015,Assess
+Accumulate-only data,May 2015,Assess
+Accumulate-only data,Jan 2015,Assess
+Buying solutions you can only afford one of,Mar 2012,Hold
+Event driven business intelligence,Jul 2011,Assess
+Experience Design (XD),Mar 2012,Assess
+Electron,Nov 2016,Assess
+Hybrid clouds,Oct 2012,Trial
+Hybrid clouds,Mar 2012,Assess
+Dapper,Nov 2016,Trial
+Dapper,Apr 2016,Trial
+Elastic Search,Jan 2014,Adopt
+Elastic Search,May 2013,Adopt
+BFF - Backend for frontends,Apr 2016,Trial
+BFF - Backend for frontends,Nov 2015,Trial
+ES6,Apr 2016,Adopt
+ES6,Nov 2015,Adopt
+CSS frameworks,May 2013,Adopt
 Event Sourcing,Jul 2014,Trial
 Event Sourcing,Mar 2012,Assess
 Event Sourcing,Jul 2011,Assess
-ARM Server SoC,Jan 2015,Assess
-ARM Server SoC,Jul 2014,Assess
-Functional languages,Jan 2010,Assess
-Data Lake,Nov 2016,Trial
-Data Lake,Apr 2016,Trial
-Data Lake,Nov 2015,Assess
-Data Lake,May 2015,Assess
-Data Lake,Jan 2015,Assess
-axios,Nov 2016,Assess
-Bottled Water,Nov 2016,Assess
-Axon,Nov 2015,Assess
-Concourse CI,Apr 2016,Assess
-Concourse CI,Nov 2015,Assess
-Embedded servlet containers,May 2013,Adopt
-Embedded servlet containers,Oct 2012,Adopt
-Embedded servlet containers,Mar 2012,Trial
-Automate database deployment,Mar 2012,Adopt
-Automate database deployment,Jul 2011,Adopt
-Automate database deployment,Jan 2011,Trial
+CoffeeScript,Jan 2014,Trial
+CoffeeScript,May 2013,Trial
+CoffeeScript,Mar 2012,Trial
+CoffeeScript,Jul 2011,Trial
+Amazon API Gateway,Nov 2016,Assess
+Amazon API Gateway,Apr 2016,Assess
 Continuous deployment,Jul 2011,Trial
 Continuous deployment,Jan 2011,Trial
 Continuous deployment,Aug 2010,Trial
 Continuous deployment,Apr 2010,Trial
 Continuous deployment,Jan 2010,Assess
-Go language,Jan 2015,Adopt
-Go language,Jul 2014,Adopt
-Go language,Jan 2014,Trial
-AWS,Mar 2012,Adopt
-AWS,Jul 2011,Adopt
-Cassandra carefully,Nov 2016,Assess
+Cloudera Impala,Nov 2015,Trial
+Cloudera Impala,May 2015,Trial
+Aggregates as documents,May 2013,Adopt
+Aggregates as documents,Oct 2012,Adopt
+Apache Pig,May 2013,Trial
+Apache Pig,Oct 2012,Trial
 Cloud lift and shift,Nov 2016,Hold
 Cloud lift and shift,Jan 2015,Hold
 Cloud lift and shift,Jul 2014,Hold
 Cloud lift and shift,Jan 2014,Hold
-Cloud-init,Jan 2014,Assess
-ECMAScript 2017,Nov 2016,Assess
-Dapper,Nov 2016,Trial
-Dapper,Apr 2016,Trial
-Hamms,Nov 2015,Trial
-Hamms,May 2015,Trial
-Categorization & prioritization of technical debt,Mar 2012,Trial
-Categorization & prioritization of technical debt,Jul 2011,Trial
-Categorization & prioritization of technical debt,Jan 2011,Trial
-Frank,May 2013,Adopt
-Frank,Oct 2012,Trial
-Frank,Mar 2012,Trial
-Auth0,Nov 2016,Trial
-FBSnapshotTestcase,Nov 2016,Assess
-Boot2docker,May 2015,Trial
-Boot2docker,Jan 2015,Trial
-Calatrava,May 2013,Assess
-Calatrava,Oct 2012,Assess
-Amazon API Gateway,Nov 2016,Assess
-Amazon API Gateway,Apr 2016,Assess
-Dropwizard,Jul 2014,Adopt
-Dropwizard,Jan 2014,Adopt
-Dropwizard,May 2013,Trial
-Dropwizard,Oct 2012,Trial
-Client-directed query,Nov 2016,Assess
-GoCD,May 2015,Adopt
-GoCD,Jan 2015,Adopt
-GoCD,Jul 2014,Trial
-Backend as a service,Jan 2014,Assess
-Hadoop as a service,Jan 2014,Trial
-Hybrid clouds,Oct 2012,Trial
-Hybrid clouds,Mar 2012,Assess
-Groovy,Jan 2011,Trial
-Groovy,Aug 2010,Trial
-Groovy,Apr 2010,Trial
-Language workbenches,Apr 2010,Hold
-Language workbenches,Jan 2010,Hold
-F#,Oct 2012,Assess
-F#,Mar 2012,Assess
-F#,Jul 2011,Assess
-F#,Jan 2011,Assess
-F#,Aug 2010,Assess
-F#,Apr 2010,Assess
-Blue-green deployment,May 2013,Trial
+Dagger,Nov 2016,Trial
+Dagger,Apr 2016,Trial
+Bug bounties,Nov 2016,Trial
+Bug bounties,Apr 2016,Trial
+Bug bounties,Nov 2015,Assess
+AWS Application Load Balancer,Nov 2016,Assess
+Enterprise Data Warehouse,Jul 2014,Hold
+Enterprise Data Warehouse,Jan 2014,Hold
+Dependency management for JavaScript,Jul 2014,Adopt
+Dependency management for JavaScript,Jan 2014,Adopt
+Domain-specific PaaS,Oct 2012,Trial
+Domain-specific PaaS,Mar 2012,Trial
+Configuration in DNS,Oct 2012,Trial
+Client and server rendering with same code,Jan 2014,Trial
+Enlive,Apr 2016,Trial
+Enlive,Nov 2015,Trial
+GitLab,May 2015,Trial
+GitLab,Jan 2015,Trial
+Blockchain beyond bitcoin,May 2015,Assess
+Blockchain beyond bitcoin,Jan 2015,Assess
+Android,Jan 2011,Adopt
+Android,Aug 2010,Adopt
+Android,Apr 2010,Trial
+Android,Jan 2010,Trial
+Intentional Software,Aug 2010,Hold
+Deployment and scripting test tools,Oct 2012,Assess
+Alamofire,Apr 2016,Assess
 EC2 & S3,Jan 2011,Trial
 EC2 & S3,Aug 2010,Trial
 EC2 & S3,Apr 2010,Trial
-JuMP,Nov 2016,Assess
-AppHarbor,Mar 2012,Trial
-CSS frameworks,May 2013,Adopt
-Grasp,Nov 2016,Assess
-Grasp,Apr 2016,Assess
-Intentional Software,Aug 2010,Hold
-Living CSS Style Guides,Jan 2015,Trial
-Living CSS Style Guides,Jul 2014,Trial
-High performance envy/web scale envy,Apr 2016,Hold
-High performance envy/web scale envy,Nov 2015,Hold
-Edge Side Includes for page composition,May 2013,Trial
-Edge Side Includes for page composition,Oct 2012,Trial
-Care about languages,Oct 2012,Adopt
-Care about languages,Mar 2012,Adopt
-Idempotency filter,Apr 2016,Trial
-Idempotency filter,Nov 2015,Trial
-Infrastructure as code,Oct 2012,Adopt
-Infrastructure as code,Mar 2012,Adopt
-Infrastructure as code,Jul 2011,Adopt
-Infrastructure as code,Jan 2011,Adopt
-Maven,May 2013,Hold
-Maven,Oct 2012,Hold
-Maven,Mar 2012,Hold
-Nancy,Nov 2015,Adopt
-Nancy,May 2015,Adopt
-Nancy,Jul 2014,Trial
-Nancy,Jan 2014,Assess
-Nancy,May 2013,Assess
+Elixir,Nov 2016,Trial
+Elixir,Apr 2016,Assess
+Elixir,Jan 2014,Assess
+Automation of technical tests,Jan 2011,Trial
+Automation of technical tests,Aug 2010,Trial
+Automation of technical tests,Apr 2010,Trial
+Backbone.js,May 2013,Hold
+Backbone.js,Oct 2012,Hold
+Backbone.js,Jul 2011,Assess
+Backend as a service,Jan 2014,Assess
+Espresso,Nov 2016,Trial
+Espresso,Nov 2015,Assess
+AWS ECS,Apr 2016,Assess
+AWS ECS,Nov 2015,Assess
+Grunt.js,Jan 2015,Trial
+Grunt.js,Jul 2014,Trial
+Grunt.js,Jan 2014,Trial
+Concurrency abstractions and patterns,Jul 2011,Trial
+Concurrency abstractions and patterns,Jan 2011,Trial
+Data Lake,Nov 2016,Trial
+Data Lake,Apr 2016,Trial
+Data Lake,Nov 2015,Assess
+Data Lake,May 2015,Assess
+Data Lake,Jan 2015,Assess
+Cloud-init,Jan 2014,Assess
+EventStore,Jan 2015,Assess
+EventStore,Jul 2014,Assess
+Content Security Policies,Nov 2016,Assess
+Content Security Policies,Apr 2016,Assess
+Cassandra carefully,Nov 2016,Assess
+Exhaustive browser based testing,May 2013,Hold
+Exhaustive browser based testing,Oct 2012,Hold
+GoCD,May 2015,Adopt
+GoCD,Jan 2015,Adopt
+GoCD,Jul 2014,Trial
 D3,Jan 2014,Adopt
 D3,May 2013,Adopt
 D3,Oct 2012,Trial
-Build pipelines,Jan 2011,Adopt
-Build pipelines,Aug 2010,Adopt
-Build pipelines,Apr 2010,Adopt
-Build pipelines,Jan 2010,Adopt
-GWT,Mar 2012,Hold
-GWT,Jul 2011,Hold
-GWT,Jan 2011,Hold
-GWT,Aug 2010,Hold
-GWT,Apr 2010,Hold
-MemSQL,Apr 2016,Assess
-Gulp,Jan 2015,Assess
-Gulp,Jul 2014,Trial
-API management services,Jul 2011,Assess
-API management services,Jan 2011,Assess
-KVM,Mar 2012,Adopt
-KVM,Jul 2011,Adopt
-KVM,Jan 2011,Adopt
-KVM,Aug 2010,Adopt
-Log aggregation & indexing,Mar 2012,Trial
-GemJars,Oct 2012,Assess
-Composer,Nov 2015,Adopt
-Composer,May 2015,Adopt
-Composer,Jan 2015,Trial
-Apache camel,Jan 2011,Trial
-Apache camel,Aug 2010,Trial
-New Relic beyond Rails,Jul 2011,Trial
-Capture domain events explicitly,Jul 2014,Trial
-Capture domain events explicitly,Jan 2014,Trial
-Java 8,Jan 2015,Adopt
-Java 8,Jul 2014,Adopt
-Configuration in DNS,Oct 2012,Trial
-Application appliances,Jan 2011,Assess
-Application appliances,Aug 2010,Assess
-Application appliances,Apr 2010,Assess
-Gor,Nov 2015,Assess
-Gor,May 2015,Assess
-Elm,Nov 2016,Assess
-Elm,Apr 2016,Assess
-Elm,Jul 2014,Assess
-CartoDB,Jul 2014,Trial
-OAuth,Jul 2011,Assess
-OAuth,Jan 2011,Assess
-OAuth,Aug 2010,Assess
-OAuth,Apr 2010,Assess
-Buying solutions you can only afford one of,Mar 2012,Hold
-Bluetooth Mesh,Apr 2016,Assess
-Immutable servers,May 2013,Adopt
-Immutable servers,Oct 2012,Adopt
-Nashorn,May 2015,Trial
-Nashorn,Jan 2015,Trial
-Bokeh/Vega,May 2015,Assess
-HTML5 storage instead of cookies,Jan 2014,Trial
-HTML5 storage instead of cookies,May 2013,Trial
-Automated deployment pipeline,May 2013,Adopt
-Automated deployment pipeline,Oct 2012,Adopt
-Continuous integration in the cloud,May 2013,Trial
-Continuous integration in the cloud,Oct 2012,Trial
-Enterprise Data Warehouse,Jul 2014,Hold
-Enterprise Data Warehouse,Jan 2014,Hold
-Accumulate-only data,Nov 2015,Assess
-Accumulate-only data,May 2015,Assess
-Accumulate-only data,Jan 2015,Assess
-Pa11y,Nov 2016,Trial
-Capturing client-side JavaScript errors,Jan 2014,Adopt
-Capturing client-side JavaScript errors,May 2013,Assess
-Cloud,Apr 2010,Adopt
-Cloud,Jan 2010,Adopt
-Citrix for development,Nov 2015,Hold
-Citrix for development,May 2015,Hold
-Citrix for development,Jan 2015,Hold
-Dependency Structure Matrices,Oct 2012,Trial
-Datensparsamkeit,May 2015,Trial
-Datensparsamkeit,Jan 2015,Trial
-Datensparsamkeit,Jul 2014,Assess
-Datensparsamkeit,Jan 2014,Assess
-JavaScript as a platform,May 2013,Trial
-JavaScript as a platform,Oct 2012,Assess
-Cursive,May 2015,Trial
-Cursive,Jan 2015,Trial
-Client and server rendering with same code,Jan 2014,Trial
-Origami,May 2015,Assess
-Flyway,Jan 2015,Adopt
-Flyway,Jul 2014,Trial
-Particle Photon/Particle Electron,Nov 2015,Assess
-Particle Photon/Particle Electron,May 2015,Assess
-Highcharts,Oct 2012,Trial
-Evolutionary architecture,Mar 2012,Adopt
-Evolutionary architecture,Jul 2011,Adopt
-Evolutionary architecture,Jan 2011,Trial
-Evolutionary architecture,Aug 2010,Trial
-Evolutionary architecture,Jan 2010,Assess
-Smart systems,Jul 2011,Assess
-Smart systems,Jan 2011,Assess
-CoffeeScript,Jan 2014,Trial
-CoffeeScript,May 2013,Trial
-CoffeeScript,Mar 2012,Trial
-CoffeeScript,Jul 2011,Trial
-Coding architects,Mar 2012,Adopt
-Coding architects,Jul 2011,Adopt
-Coding architects,Jan 2011,Adopt
-Coding architects,Aug 2010,Adopt
-Bridging physical and digital worlds with simple hardware,Jul 2014,Assess
-Bridging physical and digital worlds with simple hardware,Jan 2014,Assess
-Emergent design,Mar 2012,Adopt
-Emergent design,Jul 2011,Adopt
-Emergent design,Jan 2011,Adopt
-Emergent design,Aug 2010,Adopt
-Emergent design,Apr 2010,Adopt
-Emergent design,Jan 2010,Trial
-ClojureScript,May 2013,Assess
-ClojureScript,Oct 2012,Assess
-ClojureScript,Mar 2012,Assess
-Lua,May 2013,Assess
-Lua,Oct 2012,Assess
-Heroku,Mar 2012,Trial
-Heroku,Jul 2011,Trial
-Heroku,Jan 2011,Trial
-Presto,Apr 2016,Assess
-Presto,Nov 2015,Assess
-Mobile testing on mobile networks,Jan 2014,Adopt
-Mobile testing on mobile networks,May 2013,Adopt
-Espruino,Jul 2014,Assess
-HTML5 for offline applications,May 2013,Trial
-HTML5 for offline applications,Oct 2012,Trial
-HTML5 for offline applications,Mar 2012,Trial
-HTML5 for offline applications,Jul 2011,Trial
-Feature branching,Oct 2012,Hold
-Feature branching,Mar 2012,Hold
-Feature branching,Jul 2011,Hold
-GenyMotion,Jan 2015,Trial
-GenyMotion,Jul 2014,Trial
-GitLab,May 2015,Trial
-GitLab,Jan 2015,Trial
-Clojure.spec,Nov 2016,Assess
-JVM as platform,Aug 2010,Adopt
-JVM as platform,Apr 2010,Adopt
-JVM as platform,Jan 2010,Adopt
-Progressive Enhancement,Jul 2011,Adopt
-Progressive Enhancement,Jan 2011,Trial
-Application Servers,Apr 2016,Hold
-Application Servers,Nov 2015,Hold
-Application Servers,May 2015,Hold
-OSGi,May 2015,Hold
-OSGi,Jan 2015,Hold
-OSGi,Jul 2014,Hold
-Mountebank,Nov 2015,Adopt
-Mountebank,May 2015,Adopt
-Mountebank,Jan 2015,Assess
-Mountebank,Jul 2014,Assess
 Docker Toolbox,Nov 2016,Adopt
 Docker Toolbox,Apr 2016,Adopt
 Docker Toolbox,Jan 2015,Trial
 Docker Toolbox,Jul 2014,Trial
 Docker Toolbox,Jan 2014,Assess
-Inverse Conway Maneuver,Jan 2015,Trial
-Inverse Conway Maneuver,Jul 2014,Trial
-Q & Bluebird,Jan 2015,Trial
-Q & Bluebird,Jul 2014,Trial
-Production immune system,Mar 2012,Assess
-Mobile web,Mar 2012,Adopt
-Mobile web,Jul 2011,Adopt
-Mobile web,Jan 2011,Trial
-Mobile web,Aug 2010,Assess
-Mobile web,Apr 2010,Assess
-Gauge,Apr 2016,Trial
-Gauge,Nov 2015,Assess
-SPDY,Nov 2015,Hold
-SPDY,May 2015,Hold
-SPDY,Jul 2014,Assess
-SPDY,Jan 2014,Assess
-Django REST,May 2015,Trial
-Django REST,Jan 2015,Trial
-Event driven business intelligence,Jul 2011,Assess
-Products over projects,Apr 2016,Adopt
-Products over projects,Nov 2015,Adopt
-Products over projects,May 2015,Trial
-Butterknife,Nov 2016,Trial
-Butterknife,Apr 2016,Trial
-A single CI instance for all teams,Nov 2016,Hold
-A single CI instance for all teams,Apr 2016,Hold
-Out-of-container functional testing,Oct 2012,Trial
-Out-of-container functional testing,Mar 2012,Trial
-Pester,Jul 2014,Trial
-Pester,Jan 2014,Assess
-Python 3,Jul 2014,Assess
-Python 3,Jan 2014,Assess
-HoloLens,Nov 2016,Assess
+APIs as a product,Nov 2016,Trial
+Boot2docker,May 2015,Trial
+Boot2docker,Jan 2015,Trial
+Akka,Jan 2014,Assess
+Couchbase,May 2013,Trial
+Couchbase,Oct 2012,Trial
+Continuous delivery for mobile devices,Jan 2014,Adopt
+Continuous delivery for mobile devices,May 2013,Trial
 Evolutionary database,Mar 2012,Adopt
 Evolutionary database,Jul 2011,Adopt
 Evolutionary database,Jan 2011,Adopt
 Evolutionary database,Aug 2010,Adopt
 Evolutionary database,Apr 2010,Adopt
 Evolutionary database,Jan 2010,Trial
-NaCl,May 2015,Assess
-App containers,Jan 2011,Assess
-App containers,Aug 2010,Assess
-Machine image as a build artifact,Jul 2014,Trial
-Machine image as a build artifact,Jan 2014,Assess
-Machine image as a build artifact,May 2013,Assess
-Microservices,Jan 2014,Trial
-Microservices,May 2013,Trial
-Microservices,Oct 2012,Trial
-Microservices,Mar 2012,Assess
-Offline first web applications,Nov 2015,Trial
-Offline first web applications,May 2015,Trial
+Hosted IDE's,Apr 2016,Assess
+Hosted IDE's,Nov 2015,Assess
+AngularJS,Nov 2016,Hold
+AngularJS,Apr 2016,Assess
+AngularJS,Jan 2015,Trial
+AngularJS,Jul 2014,Trial
+GenyMotion,Jan 2015,Trial
+GenyMotion,Jul 2014,Trial
+Microsoft Nano Server,Nov 2015,Assess
+FBSnapshotTestcase,Nov 2016,Assess
+Performance testing as a first-class citizen,May 2013,Adopt
+Performance testing as a first-class citizen,Oct 2012,Trial
+Performance testing as a first-class citizen,Mar 2012,Trial
+HAML,Jul 2011,Trial
+HAML,Jan 2011,Trial
+Hosting PII data in the EU,Nov 2016,Trial
+Hosting PII data in the EU,Apr 2016,Assess
+Front end instrumentation,Jan 2015,Trial
+Front end instrumentation,Jul 2014,Trial
+Highcharts,Oct 2012,Trial
+JavaScript tooling,Mar 2012,Trial
+Gor,Nov 2015,Assess
+Gor,May 2015,Assess
+Java language end of life,Jan 2011,Assess
+Java language end of life,Aug 2010,Assess
+Java language end of life,Apr 2010,Assess
+Java language end of life,Jan 2010,Assess
+New Relic beyond Rails,Jul 2011,Trial
+Lightweight Architecture Decision Records,Nov 2016,Trial
+Julia,Jul 2014,Assess
+Julia,Jan 2014,Assess
+Functional languages,Jan 2010,Assess
+JSONassert,Nov 2016,Trial
+JuMP,Nov 2016,Assess
+ARM Server SoC,Jan 2015,Assess
+ARM Server SoC,Jul 2014,Assess
 Gitrob,Apr 2016,Assess
 Gitrob,Nov 2015,Trial
-HashiCorp Vault,Nov 2016,Trial
-HashiCorp Vault,Apr 2016,Assess
-Continuous delivery for mobile devices,Jan 2014,Adopt
-Continuous delivery for mobile devices,May 2013,Trial
-Remote usability testing,Oct 2012,Trial
-Reagent,May 2015,Assess
-Reagent,Jan 2015,Assess
+Groovy,Jan 2011,Trial
+Groovy,Aug 2010,Trial
+Groovy,Apr 2010,Trial
+Low-cost robotics,Jul 2014,Assess
+Low-cost robotics,Jan 2014,Assess
+OpenID Connect,Jan 2015,Assess
+OpenID Connect,Jul 2014,Assess
+Infrastructure automation of development workstations,Oct 2012,Trial
+Infrastructure automation of development workstations,Mar 2012,Trial
+High performance envy/web scale envy,Apr 2016,Hold
+High performance envy/web scale envy,Nov 2015,Hold
+Clojure.spec,Nov 2016,Assess
+JSF,May 2015,Hold
+JSF,Jan 2015,Hold
+JSF,Jul 2014,Hold
+JSF,Jan 2014,Hold
+Living CSS Style Guides,Jan 2015,Trial
+Living CSS Style Guides,Jul 2014,Trial
+HAL,Jan 2015,Trial
+HAL,Jul 2014,Trial
+SignalR,Apr 2016,Trial
+SignalR,Nov 2015,Trial
+AWS Lambda,Nov 2016,Trial
+AWS Lambda,Apr 2016,Trial
+AWS Lambda,Nov 2015,Trial
+Mercurial,Jul 2011,Trial
+Mercurial,Jan 2011,Trial
+Mercurial,Aug 2010,Trial
+Roslyn,Jan 2015,Assess
+Roslyn,Jul 2014,Assess
+Event API’s,Mar 2012,Trial
+Event API’s,Jul 2011,Trial
+Django REST,May 2015,Trial
+Django REST,Jan 2015,Trial
+Hosted solutions for testing iOS,Jul 2014,Assess
+Hosted solutions for testing iOS,Jan 2014,Assess
+BigQuery,May 2013,Trial
+BigQuery,Oct 2012,Assess
+OWASP ASVS,Nov 2016,Assess
+OWASP ASVS,Apr 2016,Assess
+IE6 End of Life,Aug 2010,Adopt
+IE6 End of Life,Apr 2010,Adopt
+IE6 End of Life,Jan 2010,Adopt
+Bokeh/Vega,May 2015,Assess
+H2O,Apr 2016,Trial
+H2O,Nov 2015,Trial
+H2O,May 2015,Assess
+Handwritten CSS,Jul 2014,Hold
+Handwritten CSS,Jan 2014,Hold
+Handwritten CSS,May 2013,Hold
+Consumer-driven contract testing,Nov 2016,Adopt
+Consumer-driven contract testing,Nov 2015,Adopt
+Consumer-driven contract testing,May 2015,Adopt
+Foreman,Jan 2015,Trial
+Foreman,Jul 2014,Trial
+GemJars,Oct 2012,Assess
 JavaScript as a first class language,Mar 2012,Adopt
 JavaScript as a first class language,Jul 2011,Adopt
 JavaScript as a first class language,Jan 2011,Adopt
 JavaScript as a first class language,Aug 2010,Adopt
 JavaScript as a first class language,Apr 2010,Adopt
 JavaScript as a first class language,Jan 2010,Adopt
-Deployment and scripting test tools,Oct 2012,Assess
+Go language,Jan 2015,Adopt
+Go language,Jul 2014,Adopt
+Go language,Jan 2014,Trial
+Google Dart,Oct 2012,Hold
+Google Dart,Mar 2012,Hold
+Cloud,Apr 2010,Adopt
+Cloud,Jan 2010,Adopt
+Health check pages,Oct 2012,Adopt
+Health check pages,Mar 2012,Adopt
+Care about languages,Oct 2012,Adopt
+Care about languages,Mar 2012,Adopt
+Unity beyond gaming,Nov 2016,Trial
+Ionic Framework,May 2015,Trial
+Ionic Framework,Jan 2015,Trial
+Selenium 2 testing of mobile websites,Jul 2011,Assess
+jQuery Mobile,Mar 2012,Assess
+jQuery Mobile,Jul 2011,Assess
+AngularJS and Knockout,Oct 2012,Trial
+Micro frontends,Nov 2016,Assess
+GPGPU,Mar 2012,Assess
+GPGPU,Jul 2011,Assess
+GPGPU,Jan 2011,Assess
+GPGPU,Aug 2010,Assess
+WS-*,May 2013,Hold
+WS-*,Oct 2012,Hold
+WS-*,Mar 2012,Hold
+WS-*,Jul 2011,Hold
+WS-*,Jan 2011,Hold
+WS-*,Aug 2010,Hold
+WS-*,Apr 2010,Hold
 Hive,Jul 2014,Trial
 Hive,Jan 2014,Trial
+Testing as a separate organization,Jan 2015,Hold
+Testing as a separate organization,Jul 2014,Hold
+MemSQL,Apr 2016,Assess
+Netflix OSS Full stack,May 2015,Assess
+Netflix OSS Full stack,Jan 2015,Assess
+Grasp,Nov 2016,Assess
+Grasp,Apr 2016,Assess
+IndiaStack,Nov 2016,Assess
+TypeScript,Jul 2014,Assess
+TypeScript,Jan 2014,Assess
+Babel,Nov 2016,Adopt
+Large format mobile devices,Apr 2010,Assess
+Galen,Nov 2016,Trial
+Zero-code packages,Oct 2012,Hold
+Zero-code packages,Mar 2012,Hold
+HSTS,Nov 2016,Adopt
+HSTS,Apr 2016,Trial
+HSTS,Nov 2015,Trial
+Librarian-puppet and Librarian-Chef,Jan 2014,Trial
+Librarian-puppet and Librarian-Chef,May 2013,Trial
+Flyway,Jan 2015,Adopt
+Flyway,Jul 2014,Trial
+Three.js,Nov 2016,Assess
+IE8,Aug 2010,Hold
+IE8,Apr 2010,Hold
+IE8,Jan 2010,Hold
+Work-in-Progress limits,Oct 2012,Adopt
+Ignoring OWASP Top 10,Jul 2014,Hold
+Ignoring OWASP Top 10,Jan 2014,Hold
+Twitter Bootstrap,May 2013,Assess
+Twitter Bootstrap,Oct 2012,Trial
+Zipkin,Nov 2016,Trial
+Zipkin,Apr 2016,Trial
+Zipkin,Oct 2012,Assess
+Dropwizard,Jul 2014,Adopt
+Dropwizard,Jan 2014,Adopt
+Dropwizard,May 2013,Trial
+Dropwizard,Oct 2012,Trial
+App containers,Jan 2011,Assess
+App containers,Aug 2010,Assess
+Zucchini,Oct 2012,Assess
+Webpack,Nov 2016,Trial
+Webpack,Apr 2016,Trial
+Mechanical sympathy,Mar 2012,Assess
+Bottled Water,Nov 2016,Assess
+Core Async,Jan 2015,Trial
+Core Async,Jul 2014,Trial
+Apache Kylin,Nov 2015,Assess
+Apache Kylin,May 2015,Assess
+JavaScript micro frameworks,Oct 2012,Trial
+JavaScript micro frameworks,Mar 2012,Trial
+Xamarin,May 2015,Trial
+Xamarin,Jan 2015,Trial
+Xamarin,Jul 2014,Assess
+Xamarin,Jan 2014,Assess
+Citrix for development,Nov 2015,Hold
+Citrix for development,May 2015,Hold
+Citrix for development,Jan 2015,Hold
+Grafana,Nov 2016,Adopt
+Decision driven BI,Jul 2011,Assess
+Agile analytics,Oct 2012,Trial
+Agile analytics,Mar 2012,Trial
+Logic-free markup,Oct 2012,Assess
+Logic-free markup,Mar 2012,Assess
+Neo4J,Jan 2014,Adopt
+Neo4J,May 2013,Adopt
+Neo4J,Oct 2012,Adopt
+Neo4J,Aug 2010,Trial
+Neo4J,Apr 2010,Trial
+Jade,Oct 2012,Trial
+Jade,Mar 2012,Trial
+Hipster batch,Jan 2015,Trial
+JSPatch,Nov 2016,Hold
+JSPatch,Apr 2016,Hold
+Forward Secrecy,Jan 2015,Adopt
+Forward Secrecy,Jul 2014,Adopt
+Aurelia,Nov 2016,Assess
+Aurelia,Apr 2016,Assess
+Browsersync,Apr 2016,Trial
+Browsersync,Nov 2015,Trial
+Linux containers,Oct 2012,Trial
+Linux containers,Mar 2012,Trial
+Espruino,Jul 2014,Assess
+Care about hardware,Oct 2012,Adopt
+Care about hardware,Mar 2012,Adopt
+FPM,Mar 2012,Trial
+Idempotency filter,Apr 2016,Trial
+Idempotency filter,Nov 2015,Trial
+Polyglot development environments,Jan 2010,Hold
+axios,Nov 2016,Assess
+Appium,Jan 2015,Trial
+Appium,Jul 2014,Assess
+JavaScript as a platform,May 2013,Trial
+JavaScript as a platform,Oct 2012,Assess
+Composer,Nov 2015,Adopt
+Composer,May 2015,Adopt
+Composer,Jan 2015,Trial
+Ethereum,Nov 2016,Assess
+Azure,May 2013,Assess
+Azure,Oct 2012,Assess
+Azure,Jan 2011,Assess
+Azure,Aug 2010,Assess
+Azure,Apr 2010,Hold
+Datensparsamkeit,May 2015,Trial
+Datensparsamkeit,Jan 2015,Trial
+Datensparsamkeit,Jul 2014,Assess
+Datensparsamkeit,Jan 2014,Assess
+Continuous integration in the cloud,May 2013,Trial
+Continuous integration in the cloud,Oct 2012,Trial
+Reactive Extensions across languages,Jul 2014,Adopt
+Reactive Extensions across languages,Jan 2014,Trial
+Hadoop 2.0,Jul 2014,Adopt
+Hadoop 2.0,Jan 2014,Trial
+Hadoop 2.0,May 2013,Trial
+PhoneGap/Apache Cordova,Jan 2014,Assess
+PhoneGap/Apache Cordova,May 2013,Assess
+User centered design,Jan 2010,Adopt
+Decoupling deployment from release,Apr 2016,Adopt
+Decoupling deployment from release,Nov 2015,Adopt
+Heroku,Mar 2012,Trial
+Heroku,Jul 2011,Trial
+Heroku,Jan 2011,Trial
+Haskell Hadoop library,May 2015,Assess
+Haskell Hadoop library,Jan 2015,Assess
+HashiCorp Vault,Nov 2016,Trial
+HashiCorp Vault,Apr 2016,Assess
+Retrofit,May 2015,Trial
+Retrofit,Jan 2015,Trial
+Let's Encrypt,Nov 2016,Trial
+Let's Encrypt,Apr 2016,Trial
+Let's Encrypt,Nov 2015,Assess
+tmate,Nov 2016,Trial
+Bluetooth Mesh,Apr 2016,Assess
+Ansible,Jul 2014,Adopt
+Ansible,Jan 2014,Trial
+OpenAM,May 2015,Assess
+OpenAM,Jan 2015,Assess
+Evolutionary architecture,Mar 2012,Adopt
+Evolutionary architecture,Jul 2011,Adopt
+Evolutionary architecture,Jan 2011,Trial
+Evolutionary architecture,Aug 2010,Trial
+Evolutionary architecture,Jan 2010,Assess
+Overambitious API gateways,Nov 2016,Hold
+Overambitious API gateways,Apr 2016,Hold
+Overambitious API gateways,Nov 2015,Hold
+Big enterprise solutions,Jul 2014,Hold
+Big enterprise solutions,Jan 2014,Hold
+Big enterprise solutions,May 2013,Hold
+Security sandwich,May 2015,Hold
+Security sandwich,Jan 2015,Hold
+SAFe™,Apr 2016,Hold
+SAFe™,Nov 2015,Hold
+SAFe™,May 2015,Hold
+SAFe™,Jan 2015,Hold
+Thoughtful caching,Mar 2012,Trial
+Thoughtful caching,Jul 2011,Trial
+ALT.NET,Aug 2010,Adopt
+ALT.NET,Apr 2010,Adopt
+Q & Bluebird,Jan 2015,Trial
+Q & Bluebird,Jul 2014,Trial
+Pace-layered Application Strategy,Nov 2015,Hold
+Pace-layered Application Strategy,Jan 2015,Assess
+Pace-layered Application Strategy,Jul 2014,Assess
+Gitflow,Apr 2016,Hold
+Gitflow,Nov 2015,Hold
+Datomic,May 2013,Assess
+Datomic,Oct 2012,Assess
+SaaS performance testing tools,Oct 2012,Trial
+HTML 5,Mar 2012,Adopt
+HTML 5,Jul 2011,Adopt
+HTML 5,Jan 2011,Trial
+HTML 5,Aug 2010,Assess
+HTML 5,Apr 2010,Assess
+HTML 5,Jan 2010,Assess
+CoreOS,May 2015,Assess
+CoreOS,Jan 2015,Assess
+Vert.x,Oct 2012,Assess
+PhantomJS,Jan 2014,Trial
+PhantomJS,May 2013,Trial
+Quick,Nov 2015,Assess
+Quick,May 2015,Assess
+NoSQL,Jul 2011,Trial
+NoSQL,Jan 2011,Trial
+NoSQL,Aug 2010,Trial
+NoSQL,Apr 2010,Assess
+Application appliances,Jan 2011,Assess
+Application appliances,Aug 2010,Assess
+Application appliances,Apr 2010,Assess
+Nuance Mix,Nov 2016,Assess
+Automated deployment pipeline,May 2013,Adopt
+Automated deployment pipeline,Oct 2012,Adopt
+Visualization and metrics,Jul 2011,Adopt
+Visualization and metrics,Jan 2011,Adopt
+Visualization and metrics,Aug 2010,Adopt
+Visualization and metrics,Apr 2010,Trial
+Visualization and metrics,Jan 2010,Trial
+Sandstorm,Apr 2016,Assess
+NPM for all the things,Apr 2016,Trial
+NPM for all the things,Nov 2015,Trial
+Mobile first,May 2013,Trial
+Mobile first,Oct 2012,Trial
+React.js,Nov 2016,Adopt
+React.js,Apr 2016,Adopt
+React.js,Nov 2015,Trial
+React.js,May 2015,Trial
+React.js,Jan 2015,Assess
+Facebook as business platform,Jan 2011,Trial
+Facebook as business platform,Aug 2010,Trial
+Facebook as business platform,Apr 2010,Assess
+Scikit-learn,Nov 2016,Assess
+Docker for builds,Nov 2015,Trial
+Gatling,Jan 2014,Trial
+Gatling,May 2013,Trial
+Tangible interaction,Jul 2014,Assess
+Tangible interaction,Jan 2014,Assess
+Blackbox,May 2015,Assess
+Blackbox,Jan 2015,Assess
+Brighter,May 2015,Trial
+Axon,Nov 2015,Assess
+Gorilla REPL,Jan 2015,Assess
+BEM,Nov 2015,Trial
+Consul,Nov 2016,Adopt
+Consul,Apr 2016,Adopt
+Consul,Nov 2015,Trial
+Consul,May 2015,Trial
+Consul,Jan 2015,Assess
+Consul,Jul 2014,Assess
+DevOps,Mar 2012,Adopt
+DevOps,Jul 2011,Adopt
+DevOps,Jan 2011,Trial
+DevOps,Aug 2010,Assess
+Collaborative analytics and data science,Jan 2014,Assess
+Collaborative analytics and data science,May 2013,Assess
+fastlane,Nov 2016,Trial
+Anemic REST,Nov 2016,Hold
+Domain-Specific Languages,Oct 2012,Trial
+Domain-Specific Languages,Mar 2012,Trial
+Domain-Specific Languages,Jul 2011,Trial
+Domain-Specific Languages,Jan 2011,Trial
+Domain-Specific Languages,Aug 2010,Trial
+Domain-Specific Languages,Apr 2010,Trial
+Domain-Specific Languages,Jan 2010,Trial
+Static site generators,Jan 2015,Trial
+Language workbenches,Apr 2010,Hold
+Language workbenches,Jan 2010,Hold
+Dashing,May 2015,Trial
+Dashing,Jan 2015,Trial
+JVM as platform,Aug 2010,Adopt
+JVM as platform,Apr 2010,Adopt
+JVM as platform,Jan 2010,Adopt
+Deis,Nov 2015,Assess
+Deis,May 2015,Assess
+Emergent design,Mar 2012,Adopt
+Emergent design,Jul 2011,Adopt
+Emergent design,Jan 2011,Adopt
+Emergent design,Aug 2010,Adopt
+Emergent design,Apr 2010,Adopt
+Emergent design,Jan 2010,Trial
+Serverless architecture,Nov 2016,Trial
+Serverless architecture,Apr 2016,Assess
+Continuous Delivery (CD),Mar 2012,Adopt
+Continuous Delivery (CD),Jul 2011,Adopt
+In-process acceptance testing,May 2013,Adopt
+In-process acceptance testing,Oct 2012,Adopt
+CartoDB,Jul 2014,Trial
+Concourse CI,Apr 2016,Assess
+Concourse CI,Nov 2015,Assess
+Repsheet,Nov 2016,Assess
+Repsheet,Apr 2016,Assess
+RDF triple stores,Jan 2011,Assess
+RDF triple stores,Aug 2010,Assess
+Moco,Jul 2014,Trial
+Moco,Jan 2014,Trial
+Apache camel,Jan 2011,Trial
+Apache camel,Aug 2010,Trial
+Meteor.js,Oct 2012,Hold
+R as Compute Platform,Jan 2015,Trial
+R as Compute Platform,Jul 2014,Trial
+WCF HTTP,Jan 2011,Assess
+Zepto.js,May 2013,Assess
+Mobile web,Mar 2012,Adopt
+Mobile web,Jul 2011,Adopt
+Mobile web,Jan 2011,Trial
+Mobile web,Aug 2010,Assess
+Mobile web,Apr 2010,Assess
+ReSwift,Nov 2016,Assess
+Future of Java,Mar 2012,Assess
+Future of Java,Jul 2011,Assess
+CMS as a platform,Nov 2016,Hold
+CMS as a platform,Jan 2015,Hold
+CMS as a platform,Jul 2014,Hold
+CMS as a platform,Jan 2014,Hold
+Data visualizations of development and operations,Mar 2012,Adopt
+JavaScript MV* frameworks,May 2013,Trial
+Apache Spark,Nov 2015,Trial
+Apache Spark,May 2015,Trial
+Apache Spark,Jan 2015,Assess
+Apache Spark,Jul 2014,Assess
+Superficial private cloud,Nov 2016,Hold
+Superficial private cloud,Apr 2016,Hold
+Superficial private cloud,Nov 2015,Hold
+Ubiquitous computing,Mar 2012,Trial
+Ubiquitous computing,Jul 2011,Trial
+Faraday,May 2013,Assess
+Remote usability testing,Oct 2012,Trial
+Butterknife,Nov 2016,Trial
+Butterknife,Apr 2016,Trial
+React Native,Nov 2016,Trial
+React Native,Apr 2016,Trial
+React Native,Nov 2015,Assess
+GraphQL,Nov 2016,Assess
+GraphQL,Apr 2016,Assess
+Cloud Foundry,Mar 2012,Assess
+Cloud Foundry,Jul 2011,Assess
+Manual infrastructure management,Mar 2012,Hold
+Manual infrastructure management,Jul 2011,Hold
+F#,Oct 2012,Assess
+F#,Mar 2012,Assess
+F#,Jul 2011,Assess
+F#,Jan 2011,Assess
+F#,Aug 2010,Assess
+F#,Apr 2010,Assess
+Caching reverse proxies,Jul 2011,Adopt
+Embedded servlet containers,May 2013,Adopt
+Embedded servlet containers,Oct 2012,Adopt
+Embedded servlet containers,Mar 2012,Trial
+Ceph,Apr 2016,Assess
+Ceph,Nov 2015,Assess
+Real-time business intelligence,Jan 2011,Assess
+Singleton infrastructure,May 2013,Hold
+Singleton infrastructure,Oct 2012,Hold
+VCS with “implicit workflow”,Oct 2012,Hold
+VCS with “implicit workflow”,Mar 2012,Hold
+VCS with “implicit workflow”,Jul 2011,Hold
+Canary builds,May 2015,Trial
+Canary builds,Jan 2015,Trial
+Chrome OS,Jan 2010,Assess
+Categorization & prioritization of technical debt,Mar 2012,Trial
+Categorization & prioritization of technical debt,Jul 2011,Trial
+Categorization & prioritization of technical debt,Jan 2011,Trial
+Om,May 2015,Trial
+Om,Jan 2015,Trial
+Om,Jul 2014,Assess
+Distributed version control,Apr 2010,Trial
+Distributed version control,Jan 2010,Trial
+Nancy,Nov 2015,Adopt
+Nancy,May 2015,Adopt
+Nancy,Jul 2014,Trial
+Nancy,Jan 2014,Assess
+Nancy,May 2013,Assess
+Calabash,Jan 2014,Trial
+Apache Flink,Nov 2016,Assess
+Apache Flink,Apr 2016,Assess
+Apache Mesos,Nov 2016,Trial
+Apache Mesos,Apr 2016,Trial
+Apache Mesos,Nov 2015,Trial
+Apache Mesos,May 2015,Assess
+Apache Mesos,Jan 2015,Assess
+Redux,Nov 2016,Adopt
+Redux,Apr 2016,Trial
+Tarantool,Nov 2016,Assess
+Automate database deployment,Mar 2012,Adopt
+Automate database deployment,Jul 2011,Adopt
+Automate database deployment,Jan 2011,Trial
+Android-x86,Nov 2016,Assess
+Cursive,May 2015,Trial
+Cursive,Jan 2015,Trial
+Dependency Structure Matrices,Oct 2012,Trial
+Vue.js,Nov 2016,Assess
+Machine image as a build artifact,Jul 2014,Trial
+Machine image as a build artifact,Jan 2014,Assess
+Machine image as a build artifact,May 2013,Assess
+Browser-based templating,May 2013,Assess
+Restfulie,Jan 2011,Assess
+Restfulie,Aug 2010,Assess
+Restfulie,Apr 2010,Assess
+HyperResource,Nov 2015,Assess
+Advanced analytics,Oct 2012,Adopt
+KVM,Mar 2012,Adopt
+KVM,Jul 2011,Adopt
+KVM,Jan 2011,Adopt
+KVM,Aug 2010,Adopt
+Logic in stored procedures,May 2013,Hold
+Logic in stored procedures,Oct 2012,Hold
+Logic in stored procedures,Mar 2012,Hold
+Logic in stored procedures,Jul 2011,Hold
+WebRTC,Nov 2016,Assess
+Smart systems,Jul 2011,Assess
+Smart systems,Jan 2011,Assess
+TLB,Jul 2011,Trial
+Web API,Jan 2014,Trial
+Security Monkey,Nov 2015,Assess
+Security Monkey,May 2015,Assess
+pdfmake,May 2015,Assess
+Origami,May 2015,Assess
+Web Components standard,Jul 2014,Assess
+Web Components standard,Jan 2014,Assess
+Flume,Jul 2014,Assess
+Packetbeat,May 2015,Assess
+Packetbeat,Jan 2015,Assess
+Windows Phone,Oct 2012,Assess
+Windows Phone,Mar 2012,Trial
+Apache Kafka,Nov 2016,Trial
+Apache Kafka,Apr 2016,Trial
+Apache Kafka,Nov 2015,Assess
+Apache Kafka,May 2015,Assess
+Spray/akka-http,Jul 2014,Assess
+HTML5 for offline applications,May 2013,Trial
+HTML5 for offline applications,Oct 2012,Trial
+HTML5 for offline applications,Mar 2012,Trial
+HTML5 for offline applications,Jul 2011,Trial
+Frege,Nov 2015,Assess
+Nashorn,May 2015,Trial
+Nashorn,Jan 2015,Trial
+Packer,Nov 2016,Adopt
+Packer,Jan 2015,Trial
+Packer,Jul 2014,Trial
+Differential privacy,Nov 2016,Assess
+Private Clouds,Jul 2014,Trial
+Private Clouds,Jan 2014,Assess
+Private Clouds,Oct 2012,Trial
+Private Clouds,Mar 2012,Trial
+ZAP,Nov 2015,Trial
+ZAP,May 2015,Trial
+Infrastructure as code,Oct 2012,Adopt
+Infrastructure as code,Mar 2012,Adopt
+Infrastructure as code,Jul 2011,Adopt
+Infrastructure as code,Jan 2011,Adopt
+Container security scanning,Nov 2016,Assess
+Microservices,Jan 2014,Trial
+Microservices,May 2013,Trial
+Microservices,Oct 2012,Trial
+Microservices,Mar 2012,Assess
+Bridging physical and digital worlds with simple hardware,Jul 2014,Assess
+Bridging physical and digital worlds with simple hardware,Jan 2014,Assess
+RIA,Mar 2012,Hold
+RIA,Jan 2011,Hold
+RIA,Aug 2010,Hold
+RIA,Apr 2010,Hold
+RIA,Jan 2010,Assess
+Pipelines as code,Nov 2016,Adopt
+ECMAScript 2017,Nov 2016,Assess
+Elm,Nov 2016,Assess
+Elm,Apr 2016,Assess
+Elm,Jul 2014,Assess
+DigitalOcean,May 2015,Trial
+DigitalOcean,Jan 2015,Trial
+DigitalOcean,Jul 2014,Assess
+TFS,Jul 2014,Hold
+TFS,Jan 2014,Hold
+TFS,May 2013,Hold
+Open source BI/ETL tools,Mar 2012,Assess
+Open source BI/ETL tools,Jul 2011,Assess
+Fetch,Apr 2016,Trial
+Minimizing application configuration,May 2013,Assess
+Lua,May 2013,Assess
+Lua,Oct 2012,Assess
+Declarative provisioning,Oct 2012,Trial
+Gauge,Apr 2016,Trial
+Gauge,Nov 2015,Assess
+Pact & Pacto,Jan 2015,Trial
+Pact & Pacto,Jul 2014,Trial
+Mountebank,Nov 2015,Adopt
+Mountebank,May 2015,Adopt
+Mountebank,Jan 2015,Assess
+Mountebank,Jul 2014,Assess
+Local storage sync,May 2015,Trial
+Local storage sync,Jan 2015,Trial
+Yeoman,Jan 2014,Assess
+Play Framework 2,Jul 2014,Trial
+Play Framework 2,Jan 2014,Trial
+Play Framework 2,May 2013,Trial
+GWT,Mar 2012,Hold
+GWT,Jul 2011,Hold
+GWT,Jan 2011,Hold
+GWT,Aug 2010,Hold
+GWT,Apr 2010,Hold
+U2F,May 2015,Assess
+U2F,Jan 2015,Assess
+Kubernetes,Nov 2016,Trial
+Kubernetes,Apr 2016,Trial
+Kubernetes,Nov 2015,Assess
+"Scratch, Alice, and Kodu",May 2013,Trial
+"Scratch, Alice, and Kodu",Oct 2012,Trial
+Big Data envy,Nov 2016,Hold
+Big Data envy,Apr 2016,Hold
+Partition infrastructure along team bounds,Jan 2015,Trial
+REST without PUT,Jan 2015,Trial
+REST without PUT,Jul 2014,Trial
+Quick and Nimble,Nov 2016,Trial
+Rake for Java & .NET,Oct 2012,Trial
+REST-assured,Nov 2015,Trial
+REST-assured,May 2015,Trial
+Mapbox,Jan 2015,Assess
+Mapbox,Jul 2014,Assess
+ESP8266,Apr 2016,Assess
+IndexedDB,Nov 2015,Trial
+IndexedDB,May 2015,Trial
+IndexedDB,Jan 2015,Trial
+Communication between those responsible for hardware and software,Mar 2012,Adopt
+Polly,Nov 2015,Trial
+Polly,May 2015,Trial
+Require.js & NPM,May 2013,Trial
+Jenkins as a deployment pipeline,Nov 2016,Hold
+Jenkins as a deployment pipeline,Apr 2016,Hold
+Octopus,Jan 2014,Assess
+Octopus,May 2013,Assess
+GitUp,Apr 2016,Trial
+GitUp,Nov 2015,Trial
+Products over projects,Apr 2016,Adopt
+Products over projects,Nov 2015,Adopt
+Products over projects,May 2015,Trial
+PSake,May 2013,Adopt
+PSake,Oct 2012,Trial
+PSake,Mar 2012,Trial
+Hystrix,Jan 2014,Trial
+Hystrix,May 2013,Assess
+Single threaded servers with asynchronous I/O,Oct 2012,Trial
+Single threaded servers with asynchronous I/O,Mar 2012,Assess
+Service choreography,Jan 2011,Trial
+Service choreography,Aug 2010,Trial
+Service choreography,Apr 2010,Trial
+Papertrail,Jan 2015,Trial
+Papertrail,Jul 2014,Assess
+PostgreSQL for NoSQL,Jul 2014,Trial
+PostgreSQL for NoSQL,Jan 2014,Trial
+PostgreSQL for NoSQL,May 2013,Assess
+Sensu,Nov 2015,Trial
+Sensu,Jan 2014,Assess
+Logstash & Graylog2,Jan 2014,Trial
+Logstash & Graylog2,May 2013,Trial
+Prometheus,Apr 2016,Assess
+Prometheus,Nov 2015,Assess
+Prometheus,May 2015,Assess
+Protractor for AngularJS,Jul 2014,Trial
+iPhone,Aug 2010,Adopt
+iPhone,Apr 2010,Adopt
+iPhone,Jan 2010,Adopt
+OWIN,Jan 2014,Assess
+OWIN,May 2013,Assess
+Offline first web applications,Nov 2015,Trial
+Offline first web applications,May 2015,Trial
+Rapidoid,Nov 2016,Assess
+Progressive Enhancement,Jul 2011,Adopt
+Progressive Enhancement,Jan 2011,Trial
+Pester,Jul 2014,Trial
+Pester,Jan 2014,Assess
+OpenSocial,Mar 2012,Assess
+Responsive web design,May 2013,Trial
+Responsive web design,Oct 2012,Trial
+ievms,Apr 2016,Assess
+ievms,Nov 2015,Assess
+Location based services,Aug 2010,Assess
+Location based services,Apr 2010,Assess
+Location based services,Jan 2010,Assess
+Pageify,Nov 2015,Assess
+OpenVR,Nov 2016,Assess
+Physical Web,Nov 2016,Assess
+Polyglot programming,Aug 2010,Trial
+Polyglot programming,Apr 2010,Trial
+Robolectric,Nov 2016,Trial
+Robolectric,Apr 2016,Trial
+Prototype On Paper,Jul 2014,Trial
+Prototype On Paper,Jan 2014,Trial
+Cylon.js,Apr 2016,Assess
+ESB,Oct 2012,Hold
+ESB,Mar 2012,Hold
+ESB,Jul 2011,Hold
+ESB,Jan 2011,Hold
+ESB,Aug 2010,Hold
+ESB,Apr 2010,Hold
+RAML,Apr 2016,Assess
+RAML,Nov 2015,Assess
+Reagent,May 2015,Assess
+Reagent,Jan 2015,Assess
+Ruby,Jan 2011,Adopt
+Ruby,Aug 2010,Adopt
+Application Servers,Apr 2016,Hold
+Application Servers,Nov 2015,Hold
+Application Servers,May 2015,Hold
+Pitest,Nov 2016,Assess
+Pitest,Apr 2016,Assess
+Rancher,Nov 2016,Trial
+Rancher,Apr 2016,Trial
+Rancher,Nov 2015,Assess
+TestFlight & HockeyApp,May 2013,Trial
+Particle Photon/Particle Electron,Nov 2015,Assess
+Particle Photon/Particle Electron,May 2015,Assess
+Rackspace Cloud,May 2013,Trial
+Postman,Nov 2015,Adopt
+Postman,May 2015,Adopt
+Postman,Jan 2015,Trial
+Locust,May 2013,Trial
+Locust,Oct 2012,Trial
+Development environments in the cloud,Jul 2014,Trial
+Development environments in the cloud,Jan 2014,Assess
+Development environments in the cloud,May 2013,Assess
+Riemann,May 2013,Assess
+Riemann,Oct 2012,Assess
+Dc.js,Jan 2015,Assess
+Client-directed query,Nov 2016,Assess
+Docker,Nov 2016,Adopt
+Docker,Apr 2016,Adopt
+Docker,Jan 2015,Trial
+Docker,Jul 2014,Trial
+Docker,Jan 2014,Assess
+Code in configuration,Mar 2012,Hold
+Code in configuration,Jul 2011,Hold
+Masterless Chef/Puppet,Jul 2014,Trial
+Masterless Chef/Puppet,Jan 2014,Trial
+Mobile testing on mobile networks,Jan 2014,Adopt
+Mobile testing on mobile networks,May 2013,Adopt
+Redis,Jan 2014,Adopt
+Redis,May 2013,Adopt
+Require.js,Oct 2012,Trial
+AppCode,Oct 2012,Adopt
+Capability modeling,Jul 2011,Trial
+Capability modeling,Jan 2011,Trial
+Capability modeling,Aug 2010,Trial
+Hamms,Nov 2015,Trial
+Hamms,May 2015,Trial
+Gradle,May 2013,Adopt
+Gradle,Oct 2012,Trial
+Gradle,Mar 2012,Assess
+Gradle,Jul 2011,Assess
+Platform roadmaps,Jul 2011,Adopt
+Platform roadmaps,Jan 2011,Adopt
+Platform roadmaps,Aug 2010,Adopt
+Platform roadmaps,Apr 2010,Adopt
+Graphite,May 2013,Adopt
+Graphite,Oct 2012,Adopt
+Logs as data,May 2013,Trial
+Logs as data,Oct 2012,Trial
+Sonar,Mar 2012,Assess
+Sonar,Jul 2011,Assess
+Pa11y,Nov 2016,Trial
+Coding architects,Mar 2012,Adopt
+Coding architects,Jul 2011,Adopt
+Coding architects,Jan 2011,Adopt
+Coding architects,Aug 2010,Adopt
+Maven,May 2013,Hold
+Maven,Oct 2012,Hold
+Maven,Mar 2012,Hold
+Java portal servers,Oct 2012,Hold
+Java portal servers,Mar 2012,Hold
+Java portal servers,Jul 2011,Hold
+Programming in your CI/CD tool,Nov 2015,Hold
+Programming in your CI/CD tool,May 2015,Hold
+Programming in your CI/CD tool,Jan 2015,Hold
+Semantic monitoring,May 2013,Trial
+Semantic monitoring,Oct 2012,Trial
+Flux,Apr 2016,Trial
+Flux,Nov 2015,Trial
+Flux,May 2015,Assess
+Ember.js,Nov 2016,Adopt
+Ember.js,Apr 2016,Trial
+Ember.js,Nov 2015,Assess
+Ember.js,May 2015,Assess
+HoloLens,Nov 2016,Assess
+Icon fonts,Jan 2014,Trial
+Icon fonts,May 2013,Assess
+API management services,Jul 2011,Assess
+API management services,Jan 2011,Assess
+Siloed metrics,Jan 2014,Hold
+NaCl,May 2015,Assess
+Nomad,Nov 2016,Assess
+Nomad,Apr 2016,Assess
+Storm,Jul 2014,Assess
+Storm,Jan 2014,Assess
+Git based CMS/Git for non-code,May 2015,Assess
+Cross mobile platforms,Jan 2011,Assess
+Cross mobile platforms,Aug 2010,Assess
+Cross mobile platforms,Apr 2010,Assess
+Focus on mean time to recovery,May 2015,Adopt
+Focus on mean time to recovery,Jan 2015,Adopt
+Focus on mean time to recovery,Jul 2014,Trial
+Focus on mean time to recovery,Jan 2014,Assess
+Focus on mean time to recovery,May 2013,Assess
+Visual regression testing tools,Jul 2014,Trial
+Visual regression testing tools,Jan 2014,Assess
+Inverse Conway Maneuver,Jan 2015,Trial
+Inverse Conway Maneuver,Jul 2014,Trial
+RDFa,Jan 2011,Assess
+RDFa,Aug 2010,Assess
+RDFa,Apr 2010,Assess
+RDFa,Jan 2010,Assess
+Enzyme,Nov 2016,Trial
+Node.js,Jan 2014,Adopt
+Node.js,May 2013,Trial
+Node.js,Oct 2012,Trial
+Node.js,Mar 2012,Assess
+Node.js,Jul 2011,Assess
+Node.js,Jan 2011,Assess
+Vagrant,Oct 2012,Trial
+Vagrant,Mar 2012,Trial
+Vagrant,Jul 2011,Assess
+Vagrant,Jan 2011,Assess
+ATOM,Oct 2012,Adopt
+ATOM,Mar 2012,Adopt
+ATOM,Jul 2011,Adopt
+ATOM,Jan 2011,Adopt
+ATOM,Aug 2010,Adopt
 Serverspec,Nov 2016,Trial
 Serverspec,Apr 2016,Trial
-Couchbase,May 2013,Trial
-Couchbase,Oct 2012,Trial
-Analyzing test runs,May 2013,Trial
-Mechanical sympathy,Mar 2012,Assess
-SDN,May 2015,Assess
-SDN,Jan 2015,Assess
+Phoenix,Nov 2016,Trial
+iFrames for sandboxing,Apr 2016,Trial
+iFrames for sandboxing,Nov 2015,Trial
+Monitoring of invariants,Apr 2016,Assess
+Monitoring of invariants,Nov 2015,Assess
+Lotus,May 2015,Assess
+Lotus,Jan 2015,Assess
+Auth0,Nov 2016,Trial
+Web as platform,Jan 2011,Adopt
+Web as platform,Aug 2010,Adopt
+Web as platform,Apr 2010,Adopt
+Web as platform,Jan 2010,Trial
+Google as corporate platform,Aug 2010,Assess
+Google as corporate platform,Apr 2010,Assess
+Google as corporate platform,Jan 2010,Assess
+Open source IaaS,Oct 2012,Assess
+Immutable.js,Nov 2016,Trial
+Immutable.js,Apr 2016,Assess
+Microservice envy,Nov 2015,Hold
+Microservice envy,May 2015,Hold
+Microservice envy,Jan 2015,Hold
+Server / application container end-of-life,Mar 2012,Hold
+Capturing client-side JavaScript errors,Jan 2014,Adopt
+Capturing client-side JavaScript errors,May 2013,Assess
 Separate DevOps team,Nov 2015,Hold
 Separate DevOps team,May 2015,Hold
 Separate DevOps team,Jan 2015,Hold
 Separate DevOps team,Jul 2014,Hold
-Deflect,Apr 2016,Assess
+Co-location by telepresence,May 2013,Trial
+JRuby,Jul 2011,Adopt
+JRuby,Jan 2011,Adopt
+JRuby,Aug 2010,Adopt
+JRuby,Apr 2010,Adopt
+Segregated DOM plus node for JS Testing,Jul 2014,Adopt
+Segregated DOM plus node for JS Testing,Jan 2014,Adopt
+Scrum certification,Mar 2012,Hold
+Scrum certification,Jul 2011,Hold
+Scrum certification,Jan 2011,Hold
+Scrum certification,Aug 2010,Hold
+Scrum certification,Apr 2010,Hold
+Lean software development,Apr 2010,Trial
+Lean software development,Jan 2010,Trial
 Instrument all the things,Jan 2014,Trial
+Simple performance trending,Mar 2012,Adopt
+Simple performance trending,Jul 2011,Adopt
+Blue-green deployment,May 2013,Trial
+Promises for asynchronous programming,May 2013,Adopt
+Firefox,Jan 2010,Adopt
+Squid,Jan 2011,Adopt
+Squid,Aug 2010,Adopt
+Squid,Apr 2010,Adopt
+Gulp,Jan 2015,Assess
+Gulp,Jul 2014,Trial
+iBeacon,Jan 2015,Trial
+iBeacon,Jul 2014,Trial
+Subversion,Jul 2011,Adopt
+Subversion,Jan 2011,Adopt
+Subversion,Aug 2010,Adopt
+Subversion,Apr 2010,Adopt
+Subversion,Jan 2010,Trial
+OSGi,May 2015,Hold
+OSGi,Jan 2015,Hold
+OSGi,Jul 2014,Hold
+Github,Mar 2012,Adopt
+Github,Jul 2011,Adopt
+Github,Jan 2011,Assess
+Github,Aug 2010,Assess
+Github,Apr 2010,Assess
+Machine image pipelines,Jan 2015,Assess
+Machine image pipelines,Jul 2014,Assess
+Calatrava,May 2013,Assess
+Calatrava,Oct 2012,Assess
+Silverback,Oct 2012,Adopt
+Visualizations for business data,Apr 2010,Assess
+Chaos Monkey,Jul 2014,Trial
+Chaos Monkey,Jan 2014,Trial
+SnapCI,Jan 2015,Trial
+SnapCI,Jul 2014,Trial
+SnapCI,Jan 2014,Trial
+Reactive Extensions for .Net,May 2013,Assess
+PlantUML,May 2015,Assess
+Text it as a service / Rapidpro.io,May 2015,Assess
+Text it as a service / Rapidpro.io,Jan 2015,Assess
+VR beyond gaming,Nov 2016,Assess
+VR beyond gaming,Apr 2016,Assess
+Edge Side Includes for page composition,May 2013,Trial
+Edge Side Includes for page composition,Oct 2012,Trial
+Sleepy Puppy,Apr 2016,Assess
+Sleepy Puppy,Nov 2015,Assess
 "Scala, the good parts",Jul 2014,Adopt
 "Scala, the good parts",Jan 2014,Adopt
 "Scala, the good parts",May 2013,Adopt
@@ -412,900 +1063,97 @@ Instrument all the things,Jan 2014,Trial
 "Scala, the good parts",Jan 2011,Trial
 "Scala, the good parts",Aug 2010,Assess
 "Scala, the good parts",Apr 2010,Assess
-Docker,Nov 2016,Adopt
-Docker,Apr 2016,Adopt
-Docker,Jan 2015,Trial
-Docker,Jul 2014,Trial
-Docker,Jan 2014,Assess
-JavaScript tooling,Mar 2012,Trial
-HAML,Jul 2011,Trial
-HAML,Jan 2011,Trial
-Hosting PII data in the EU,Nov 2016,Trial
-Hosting PII data in the EU,Apr 2016,Assess
-Security sandwich,May 2015,Hold
-Security sandwich,Jan 2015,Hold
-Health check pages,Oct 2012,Adopt
-Health check pages,Mar 2012,Adopt
-Scrum certification,Mar 2012,Hold
-Scrum certification,Jul 2011,Hold
-Scrum certification,Jan 2011,Hold
-Scrum certification,Aug 2010,Hold
-Scrum certification,Apr 2010,Hold
-Rackspace Cloud,May 2013,Trial
-Polyglot Persistence,Oct 2012,Trial
-Polyglot Persistence,Mar 2012,Trial
-Appium,Jan 2015,Trial
-Appium,Jul 2014,Assess
-Flume,Jul 2014,Assess
-Octopus,Jan 2014,Assess
-Octopus,May 2013,Assess
-Git,Mar 2012,Adopt
-Git,Jul 2011,Adopt
-Git,Jan 2011,Trial
-Git,Aug 2010,Trial
-Gremlin,May 2013,Assess
-Gremlin,Oct 2012,Assess
-Tailored Service Template,Jan 2015,Trial
-Tailored Service Template,Jul 2014,Trial
-Segregated DOM plus node for JS Testing,Jul 2014,Adopt
-Segregated DOM plus node for JS Testing,Jan 2014,Adopt
-SaaS performance testing tools,Oct 2012,Trial
-Snowplow Analytics & Piwik,Jan 2015,Trial
-Snowplow Analytics & Piwik,Jul 2014,Trial
-Snowplow Analytics & Piwik,Jan 2014,Trial
-Snowplow Analytics & Piwik,May 2013,Assess
-PhantomJS,Jan 2014,Trial
-PhantomJS,May 2013,Trial
-ES6,Apr 2016,Adopt
-ES6,Nov 2015,Adopt
-H2O,Apr 2016,Trial
-H2O,Nov 2015,Trial
-H2O,May 2015,Assess
-Selenium 2 testing of mobile websites,Jul 2011,Assess
-Iterative data warehousing,Jul 2011,Trial
-Iterative data warehousing,Aug 2010,Assess
-Iterative data warehousing,Apr 2010,Assess
-Iterative data warehousing,Jan 2010,Assess
-Semantic monitoring,May 2013,Trial
-Semantic monitoring,Oct 2012,Trial
-Security Monkey,Nov 2015,Assess
-Security Monkey,May 2015,Assess
-Reactive Extensions across languages,Jul 2014,Adopt
-Reactive Extensions across languages,Jan 2014,Trial
-Phoenix,Nov 2016,Trial
-Play Framework 2,Jul 2014,Trial
-Play Framework 2,Jan 2014,Trial
-Play Framework 2,May 2013,Trial
-Mobile first,May 2013,Trial
-Mobile first,Oct 2012,Trial
-Forward Secrecy,Jan 2015,Adopt
-Forward Secrecy,Jul 2014,Adopt
-CoreOS,May 2015,Assess
-CoreOS,Jan 2015,Assess
-Concurrent languages,Jan 2010,Assess
-Packetbeat,May 2015,Assess
-Packetbeat,Jan 2015,Assess
-Big Data envy,Nov 2016,Hold
-Big Data envy,Apr 2016,Hold
-Apache Flink,Nov 2016,Assess
-Apache Flink,Apr 2016,Assess
-Dagger,Nov 2016,Trial
-Dagger,Apr 2016,Trial
-Jenkins as a deployment pipeline,Nov 2016,Hold
-Jenkins as a deployment pipeline,Apr 2016,Hold
-Pipelines as code,Nov 2016,Adopt
-Cloudera Impala,Nov 2015,Trial
-Cloudera Impala,May 2015,Trial
-Build your own radar,Mar 2012,Trial
-Build your own radar,Jul 2011,Trial
-Front end instrumentation,Jan 2015,Trial
-Front end instrumentation,Jul 2014,Trial
-Chaos Monkey,Jul 2014,Trial
-Chaos Monkey,Jan 2014,Trial
-Pinpoint,Nov 2016,Assess
-Pinpoint,Apr 2016,Assess
-RDFa,Jan 2011,Assess
-RDFa,Aug 2010,Assess
-RDFa,Apr 2010,Assess
-RDFa,Jan 2010,Assess
-Gorilla REPL,Jan 2015,Assess
-Reactive architectures,Nov 2016,Trial
-Reactive architectures,Apr 2016,Trial
-Reactive architectures,Nov 2015,Assess
-Reactive architectures,May 2015,Assess
-Pointer Events,Jul 2014,Assess
-Pointer Events,Jan 2014,Assess
-Sinatra,Jan 2014,Adopt
-Sinatra,May 2013,Adopt
-Sinatra,Oct 2012,Trial
-JavaScript micro frameworks,Oct 2012,Trial
-JavaScript micro frameworks,Mar 2012,Trial
-Android-x86,Nov 2016,Assess
-PlantUML,May 2015,Assess
-Event API’s,Mar 2012,Trial
-Event API’s,Jul 2011,Trial
+Mobile payment systems,Oct 2012,Adopt
+Wolfram Language,Jul 2014,Assess
+Treating VMs like physical infrastructure,Mar 2012,Hold
 RubyMotion,May 2013,Assess
 RubyMotion,Oct 2012,Assess
-RAML,Apr 2016,Assess
-RAML,Nov 2015,Assess
-Pageify,Nov 2015,Assess
-Large format mobile devices,Apr 2010,Assess
-NoPSD,Nov 2015,Adopt
-NoPSD,May 2015,Trial
-NoPSD,Jan 2015,Trial
-Packer,Nov 2016,Adopt
-Packer,Jan 2015,Trial
-Packer,Jul 2014,Trial
-Retrofit,May 2015,Trial
-Retrofit,Jan 2015,Trial
-iBeacon,Jan 2015,Trial
-iBeacon,Jul 2014,Trial
-Brighter,May 2015,Trial
-Google Dart,Oct 2012,Hold
-Google Dart,Mar 2012,Hold
-Prototype On Paper,Jul 2014,Trial
-Prototype On Paper,Jan 2014,Trial
-Collaborative analytics and data science,Jan 2014,Assess
-Collaborative analytics and data science,May 2013,Assess
-Pace-layered Application Strategy,Nov 2015,Hold
-Pace-layered Application Strategy,Jan 2015,Assess
-Pace-layered Application Strategy,Jul 2014,Assess
-OpenSocial,Mar 2012,Assess
-BFF - Backend for frontends,Apr 2016,Trial
-BFF - Backend for frontends,Nov 2015,Trial
-SMS and USSD as a UI,Jan 2014,Adopt
-SMS and USSD as a UI,May 2013,Adopt
-Open source BI/ETL tools,Mar 2012,Assess
-Open source BI/ETL tools,Jul 2011,Assess
-Icon fonts,Jan 2014,Trial
-Icon fonts,May 2013,Assess
-Realm,Nov 2016,Trial
-Realm,Apr 2016,Assess
-AWS Lambda,Nov 2016,Trial
-AWS Lambda,Apr 2016,Trial
-AWS Lambda,Nov 2015,Trial
-UIAutomator,May 2013,Assess
-Mobile payment systems,Oct 2012,Adopt
-Subversion,Jul 2011,Adopt
-Subversion,Jan 2011,Adopt
-Subversion,Aug 2010,Adopt
-Subversion,Apr 2010,Adopt
-Subversion,Jan 2010,Trial
-Zipkin,Nov 2016,Trial
-Zipkin,Apr 2016,Trial
-Zipkin,Oct 2012,Assess
-OpenAM,May 2015,Assess
-OpenAM,Jan 2015,Assess
-Tangible interaction,Jul 2014,Assess
-Tangible interaction,Jan 2014,Assess
-Jepsen,Apr 2016,Assess
-Client-side MVC,Mar 2012,Trial
-HTML 5,Mar 2012,Adopt
-HTML 5,Jul 2011,Adopt
-HTML 5,Jan 2011,Trial
-HTML 5,Aug 2010,Assess
-HTML 5,Apr 2010,Assess
-HTML 5,Jan 2010,Assess
-Dashing,May 2015,Trial
-Dashing,Jan 2015,Trial
-Repsheet,Nov 2016,Assess
-Repsheet,Apr 2016,Assess
-Ember.js,Nov 2016,Adopt
-Ember.js,Apr 2016,Trial
-Ember.js,Nov 2015,Assess
-Ember.js,May 2015,Assess
-IndexedDB,Nov 2015,Trial
-IndexedDB,May 2015,Trial
-IndexedDB,Jan 2015,Trial
-Platform roadmaps,Jul 2011,Adopt
-Platform roadmaps,Jan 2011,Adopt
-Platform roadmaps,Aug 2010,Adopt
-Platform roadmaps,Apr 2010,Adopt
-SnapCI,Jan 2015,Trial
-SnapCI,Jul 2014,Trial
-SnapCI,Jan 2014,Trial
-Thoughtful caching,Mar 2012,Trial
-Thoughtful caching,Jul 2011,Trial
-Carthage,Apr 2016,Trial
-Carthage,Nov 2015,Trial
-Hosted solutions for testing iOS,Jul 2014,Assess
-Hosted solutions for testing iOS,Jan 2014,Assess
-Apache Mesos,Nov 2016,Trial
-Apache Mesos,Apr 2016,Trial
-Apache Mesos,Nov 2015,Trial
-Apache Mesos,May 2015,Assess
-Apache Mesos,Jan 2015,Assess
-Require.js & NPM,May 2013,Trial
-Minimizing application configuration,May 2013,Assess
-HSTS,Nov 2016,Adopt
-HSTS,Apr 2016,Trial
-HSTS,Nov 2015,Trial
-Message buses without smarts,Mar 2012,Trial
-Message buses without smarts,Jul 2011,Trial
-Message buses without smarts,Jan 2011,Trial
-Message buses without smarts,Aug 2010,Trial
-Message buses without smarts,Apr 2010,Trial
-Overambitious API gateways,Nov 2016,Hold
-Overambitious API gateways,Apr 2016,Hold
-Overambitious API gateways,Nov 2015,Hold
-Physical Web,Nov 2016,Assess
-Service choreography,Jan 2011,Trial
-Service choreography,Aug 2010,Trial
-Service choreography,Apr 2010,Trial
-Grunt.js,Jan 2015,Trial
-Grunt.js,Jul 2014,Trial
-Grunt.js,Jan 2014,Trial
-Pitest,Nov 2016,Assess
-Pitest,Apr 2016,Assess
-Event Storming,Apr 2016,Trial
-Event Storming,Nov 2015,Trial
-Ceph,Apr 2016,Assess
-Ceph,Nov 2015,Assess
-Blackbox,May 2015,Assess
-Blackbox,Jan 2015,Assess
-Manual infrastructure management,Mar 2012,Hold
-Manual infrastructure management,Jul 2011,Hold
-AWS ECS,Apr 2016,Assess
-AWS ECS,Nov 2015,Assess
-Infrastructure automation of development workstations,Oct 2012,Trial
-Infrastructure automation of development workstations,Mar 2012,Trial
-QA in production,Apr 2016,Trial
-QA in production,Nov 2015,Trial
-Aurelia,Nov 2016,Assess
-Aurelia,Apr 2016,Assess
-Single threaded servers with asynchronous I/O,Oct 2012,Trial
-Single threaded servers with asynchronous I/O,Mar 2012,Assess
-Git based CMS/Git for non-code,May 2015,Assess
-Quick,Nov 2015,Assess
-Quick,May 2015,Assess
-Papertrail,Jan 2015,Trial
-Papertrail,Jul 2014,Assess
-Real-time business intelligence,Jan 2011,Assess
-Wolfram Language,Jul 2014,Assess
-Lotus,May 2015,Assess
-Lotus,Jan 2015,Assess
-Consul,Nov 2016,Adopt
-Consul,Apr 2016,Adopt
-Consul,Nov 2015,Trial
-Consul,May 2015,Trial
-Consul,Jan 2015,Assess
-Consul,Jul 2014,Assess
-Text it as a service / Rapidpro.io,May 2015,Assess
-Text it as a service / Rapidpro.io,Jan 2015,Assess
-Light Table,May 2013,Assess
-Light Table,Oct 2012,Assess
-OpenID Connect,Jan 2015,Assess
-OpenID Connect,Jul 2014,Assess
-Swagger,May 2015,Trial
-Swagger,Jan 2015,Trial
-Swagger,Jul 2014,Assess
-Testing as a separate organization,Jan 2015,Hold
-Testing as a separate organization,Jul 2014,Hold
-Partition infrastructure along team bounds,Jan 2015,Trial
-AWS Application Load Balancer,Nov 2016,Assess
-Load Impact,Nov 2016,Trial
-Load Impact,Apr 2016,Trial
-ESB,Oct 2012,Hold
-ESB,Mar 2012,Hold
-ESB,Jul 2011,Hold
-ESB,Jan 2011,Hold
-ESB,Aug 2010,Hold
-ESB,Apr 2010,Hold
-Zero-code packages,Oct 2012,Hold
-Zero-code packages,Mar 2012,Hold
-Talisman,Nov 2016,Trial
-Apache Pig,May 2013,Trial
-Apache Pig,Oct 2012,Trial
-Protractor for AngularJS,Jul 2014,Trial
-Ignoring OWASP Top 10,Jul 2014,Hold
-Ignoring OWASP Top 10,Jan 2014,Hold
-Singleton infrastructure,May 2013,Hold
-Singleton infrastructure,Oct 2012,Hold
-Automation of technical tests,Jan 2011,Trial
-Automation of technical tests,Aug 2010,Trial
-Automation of technical tests,Apr 2010,Trial
-VR beyond gaming,Nov 2016,Assess
-VR beyond gaming,Apr 2016,Assess
-Backbone.js,May 2013,Hold
-Backbone.js,Oct 2012,Hold
-Backbone.js,Jul 2011,Assess
-Big enterprise solutions,Jul 2014,Hold
-Big enterprise solutions,Jan 2014,Hold
-Big enterprise solutions,May 2013,Hold
-Cross-platform mobile toolkits,Mar 2012,Hold
-Cross-platform mobile toolkits,Jul 2011,Hold
-BEM,Nov 2015,Trial
-GitUp,Apr 2016,Trial
-GitUp,Nov 2015,Trial
-Immutable.js,Nov 2016,Trial
-Immutable.js,Apr 2016,Assess
-Prometheus,Apr 2016,Assess
-Prometheus,Nov 2015,Assess
-Prometheus,May 2015,Assess
-Mesosphere DCOS,Apr 2016,Assess
-Mesosphere DCOS,Nov 2015,Assess
-Roslyn,Jan 2015,Assess
-Roslyn,Jul 2014,Assess
-Content Security Policies,Nov 2016,Assess
-Content Security Policies,Apr 2016,Assess
-Fastly,Nov 2015,Trial
-Babel,Nov 2016,Adopt
-Location based services,Aug 2010,Assess
-Location based services,Apr 2010,Assess
-Location based services,Jan 2010,Assess
-Require.js,Oct 2012,Trial
-Windows Phone,Oct 2012,Assess
-Windows Phone,Mar 2012,Trial
-Julia,Jul 2014,Assess
-Julia,Jan 2014,Assess
-React.js,Nov 2016,Adopt
-React.js,Apr 2016,Adopt
-React.js,Nov 2015,Trial
-React.js,May 2015,Trial
-React.js,Jan 2015,Assess
-Jekyll,May 2013,Trial
-Jekyll,Oct 2012,Trial
-ZAP,Nov 2015,Trial
-ZAP,May 2015,Trial
-Tarantool,Nov 2016,Assess
-Clojure,Jan 2014,Adopt
-Clojure,May 2013,Adopt
-Clojure,Oct 2012,Adopt
-Clojure,Mar 2012,Trial
-Clojure,Jul 2011,Assess
-Clojure,Jan 2011,Assess
-Clojure,Aug 2010,Assess
-Clojure,Apr 2010,Assess
-MariaDB,May 2015,Assess
-MariaDB,Jan 2015,Assess
-fastlane,Nov 2016,Trial
-OWASP ASVS,Nov 2016,Assess
-OWASP ASVS,Apr 2016,Assess
-Logic in stored procedures,May 2013,Hold
-Logic in stored procedures,Oct 2012,Hold
-Logic in stored procedures,Mar 2012,Hold
-Logic in stored procedures,Jul 2011,Hold
-SAFe™,Apr 2016,Hold
-SAFe™,Nov 2015,Hold
-SAFe™,May 2015,Hold
-SAFe™,Jan 2015,Hold
-Recharts,Nov 2016,Assess
-Recharts,Apr 2016,Assess
-Robolectric,Nov 2016,Trial
-Robolectric,Apr 2016,Trial
-Quick and Nimble,Nov 2016,Trial
-Jackrabbit Oak,May 2015,Assess
-Jackrabbit Oak,Jan 2015,Assess
-Velocity as productivity,Jan 2015,Hold
-Velocity as productivity,Jul 2014,Hold
-Velocity as productivity,Jan 2014,Hold
-Restfulie,Jan 2011,Assess
-Restfulie,Aug 2010,Assess
-Restfulie,Apr 2010,Assess
-IE6 End of Life,Aug 2010,Adopt
-IE6 End of Life,Apr 2010,Adopt
-IE6 End of Life,Jan 2010,Adopt
-Work-in-Progress limits,Oct 2012,Adopt
-Riak,May 2013,Trial
-Riak,Oct 2012,Trial
-Riak,Mar 2012,Assess
-Static site generators,Jan 2015,Trial
-NoSQL,Jul 2011,Trial
-NoSQL,Jan 2011,Trial
-NoSQL,Aug 2010,Trial
-NoSQL,Apr 2010,Assess
-Test recorders,Oct 2012,Hold
-Test recorders,Mar 2012,Hold
-Structured logging,May 2015,Adopt
-Structured logging,Jan 2015,Adopt
-Structured logging,Jul 2014,Trial
-Structured logging,Jan 2014,Trial
-TensorFlow,Nov 2016,Assess
-TensorFlow,Apr 2016,Assess
-Microservice envy,Nov 2015,Hold
-Microservice envy,May 2015,Hold
-Microservice envy,Jan 2015,Hold
-Distributed version control,Apr 2010,Trial
-Distributed version control,Jan 2010,Trial
-OpenVR,Nov 2016,Assess
-Polly,Nov 2015,Trial
-Polly,May 2015,Trial
-DevOps,Mar 2012,Adopt
-DevOps,Jul 2011,Adopt
-DevOps,Jan 2011,Trial
-DevOps,Aug 2010,Assess
-Property-based unit testing,Jul 2014,Assess
-Android,Jan 2011,Adopt
-Android,Aug 2010,Adopt
-Android,Apr 2010,Trial
-Android,Jan 2010,Trial
-Dc.js,Jan 2015,Assess
-Gitflow,Apr 2016,Hold
-Gitflow,Nov 2015,Hold
-Kubernetes,Nov 2016,Trial
-Kubernetes,Apr 2016,Trial
-Kubernetes,Nov 2015,Assess
-Database migrations for NoSQL,May 2013,Trial
-TLB,Jul 2011,Trial
-Visualization and metrics,Jul 2011,Adopt
-Visualization and metrics,Jan 2011,Adopt
-Visualization and metrics,Aug 2010,Adopt
-Visualization and metrics,Apr 2010,Trial
-Visualization and metrics,Jan 2010,Trial
-Rust,Jan 2015,Assess
-Rust,Jul 2014,Assess
-.NET Core,Nov 2016,Assess
-.NET Core,Nov 2015,Assess
-.NET Core,May 2015,Assess
-JRuby,Jul 2011,Adopt
-JRuby,Jan 2011,Adopt
-JRuby,Aug 2010,Adopt
-JRuby,Apr 2010,Adopt
-Netflix OSS Full stack,May 2015,Assess
-Netflix OSS Full stack,Jan 2015,Assess
-Capability modeling,Jul 2011,Trial
-Capability modeling,Jan 2011,Trial
-Capability modeling,Aug 2010,Trial
-Siloed metrics,Jan 2014,Hold
-Hadoop 2.0,Jul 2014,Adopt
-Hadoop 2.0,Jan 2014,Trial
-Hadoop 2.0,May 2013,Trial
-Monitoring of invariants,Apr 2016,Assess
-Monitoring of invariants,Nov 2015,Assess
-Simple performance trending,Mar 2012,Adopt
-Simple performance trending,Jul 2011,Adopt
-Webpack,Nov 2016,Trial
-Webpack,Apr 2016,Trial
-Rake for Java & .NET,Oct 2012,Trial
-Tablet,Mar 2012,Trial
-Tablet,Jul 2011,Trial
-Tablet,Jan 2011,Trial
-Tablet,Aug 2010,Assess
-Faraday,May 2013,Assess
-Code in configuration,Mar 2012,Hold
-Code in configuration,Jul 2011,Hold
-iPhone,Aug 2010,Adopt
-iPhone,Apr 2010,Adopt
-iPhone,Jan 2010,Adopt
-Sandstorm,Apr 2016,Assess
-Reactive Extensions for .Net,May 2013,Assess
-Github,Mar 2012,Adopt
-Github,Jul 2011,Adopt
-Github,Jan 2011,Assess
-Github,Aug 2010,Assess
-Github,Apr 2010,Assess
-Mercurial,Jul 2011,Trial
-Mercurial,Jan 2011,Trial
-Mercurial,Aug 2010,Trial
-Moco,Jul 2014,Trial
-Moco,Jan 2014,Trial
-Azure,May 2013,Assess
-Azure,Oct 2012,Assess
-Azure,Jan 2011,Assess
-Azure,Aug 2010,Assess
-Azure,Apr 2010,Hold
-iFrames for sandboxing,Apr 2016,Trial
-iFrames for sandboxing,Nov 2015,Trial
-Enzyme,Nov 2016,Trial
-Web API,Jan 2014,Trial
-NPM for all the things,Apr 2016,Trial
-NPM for all the things,Nov 2015,Trial
-Calabash,Jan 2014,Trial
-Sonar,Mar 2012,Assess
-Sonar,Jul 2011,Assess
-Chrome,Jan 2010,Assess
-Redis,Jan 2014,Adopt
-Redis,May 2013,Adopt
-Web as platform,Jan 2011,Adopt
-Web as platform,Aug 2010,Adopt
-Web as platform,Apr 2010,Adopt
-Web as platform,Jan 2010,Trial
-Co-location by telepresence,May 2013,Trial
-Sleepy Puppy,Apr 2016,Assess
-Sleepy Puppy,Nov 2015,Assess
-Differential privacy,Nov 2016,Assess
-Rapidoid,Nov 2016,Assess
-Procedure oriented integration,Jul 2011,Hold
-IE8,Aug 2010,Hold
-IE8,Apr 2010,Hold
-IE8,Jan 2010,Hold
-DigitalOcean,May 2015,Trial
-DigitalOcean,Jan 2015,Trial
-DigitalOcean,Jul 2014,Assess
-Google Wave,Jan 2010,Hold
-Bug bounties,Nov 2016,Trial
-Bug bounties,Apr 2016,Trial
-Bug bounties,Nov 2015,Assess
-ALT.NET,Aug 2010,Adopt
-ALT.NET,Apr 2010,Adopt
-Java language end of life,Jan 2011,Assess
-Java language end of life,Aug 2010,Assess
-Java language end of life,Apr 2010,Assess
-Java language end of life,Jan 2010,Assess
-Programming in your CI/CD tool,Nov 2015,Hold
-Programming in your CI/CD tool,May 2015,Hold
-Programming in your CI/CD tool,Jan 2015,Hold
-Serverless architecture,Nov 2016,Trial
-Serverless architecture,Apr 2016,Assess
-leaflet.js,Jan 2015,Assess
-leaflet.js,Jul 2014,Assess
-Microsoft Nano Server,Nov 2015,Assess
-Frege,Nov 2015,Assess
-wit.ai,Nov 2016,Assess
-Google as corporate platform,Aug 2010,Assess
-Google as corporate platform,Apr 2010,Assess
-Google as corporate platform,Jan 2010,Assess
-TLA+,Nov 2015,Assess
-JSF,May 2015,Hold
-JSF,Jan 2015,Hold
-JSF,Jul 2014,Hold
-JSF,Jan 2014,Hold
-TypeScript,Jul 2014,Assess
-TypeScript,Jan 2014,Assess
-Performance testing as a first-class citizen,May 2013,Adopt
-Performance testing as a first-class citizen,Oct 2012,Trial
-Performance testing as a first-class citizen,Mar 2012,Trial
-Care about hardware,Oct 2012,Adopt
-Care about hardware,Mar 2012,Adopt
-WS-*,May 2013,Hold
-WS-*,Oct 2012,Hold
-WS-*,Mar 2012,Hold
-WS-*,Jul 2011,Hold
-WS-*,Jan 2011,Hold
-WS-*,Aug 2010,Hold
-WS-*,Apr 2010,Hold
-Polyglot programming,Aug 2010,Trial
-Polyglot programming,Apr 2010,Trial
-In-process acceptance testing,May 2013,Adopt
-In-process acceptance testing,Oct 2012,Adopt
-Domain-Specific Languages,Oct 2012,Trial
-Domain-Specific Languages,Mar 2012,Trial
-Domain-Specific Languages,Jul 2011,Trial
-Domain-Specific Languages,Jan 2011,Trial
-Domain-Specific Languages,Aug 2010,Trial
-Domain-Specific Languages,Apr 2010,Trial
-Domain-Specific Languages,Jan 2010,Trial
-Windows infrastructure automation,Jan 2014,Adopt
-Windows infrastructure automation,May 2013,Adopt
-Windows infrastructure automation,Oct 2012,Adopt
-Windows infrastructure automation,Mar 2012,Trial
-BigQuery,May 2013,Trial
-BigQuery,Oct 2012,Assess
-Linux containers,Oct 2012,Trial
-Linux containers,Mar 2012,Trial
-Foreman,Jan 2015,Trial
-Foreman,Jul 2014,Trial
-SysDig,Apr 2016,Trial
-SysDig,Nov 2015,Trial
-Visual regression testing tools,Jul 2014,Trial
-Visual regression testing tools,Jan 2014,Assess
-C# 4.0,Jan 2011,Adopt
-C# 4.0,Aug 2010,Adopt
-C# 4.0,Apr 2010,Adopt
-C# 4.0,Jan 2010,Trial
-Container security scanning,Nov 2016,Assess
-Om,May 2015,Trial
-Om,Jan 2015,Trial
-Om,Jul 2014,Assess
-Superficial private cloud,Nov 2016,Hold
-Superficial private cloud,Apr 2016,Hold
-Superficial private cloud,Nov 2015,Hold
-JSPatch,Nov 2016,Hold
-JSPatch,Apr 2016,Hold
-REST without PUT,Jan 2015,Trial
-REST without PUT,Jul 2014,Trial
-Elastic Search,Jan 2014,Adopt
-Elastic Search,May 2013,Adopt
-Google App Engine,Aug 2010,Assess
-Google App Engine,Apr 2010,Assess
-Riemann,May 2013,Assess
-Riemann,Oct 2012,Assess
-Storm,Jul 2014,Assess
-Storm,Jan 2014,Assess
-JavaScript MV* frameworks,May 2013,Trial
-Electron,Nov 2016,Assess
-Future of Java,Mar 2012,Assess
-Future of Java,Jul 2011,Assess
-Polyglot development environments,Jan 2010,Hold
-Machine image pipelines,Jan 2015,Assess
-Machine image pipelines,Jul 2014,Assess
-Apache Kafka,Nov 2016,Trial
-Apache Kafka,Apr 2016,Trial
-Apache Kafka,Nov 2015,Assess
-Apache Kafka,May 2015,Assess
-Concurrency abstractions and patterns,Jul 2011,Trial
-Concurrency abstractions and patterns,Jan 2011,Trial
-WCF HTTP,Jan 2011,Assess
-Database based integration,Oct 2012,Hold
-Database based integration,Mar 2012,Hold
-Database based integration,Jul 2011,Hold
-Database based integration,Jan 2011,Hold
-Database based integration,Aug 2010,Hold
-Grafana,Nov 2016,Adopt
-Open source IaaS,Oct 2012,Assess
-Declarative provisioning,Oct 2012,Trial
-Phoenix Environments,Apr 2016,Trial
-Phoenix Environments,Nov 2015,Trial
-Phoenix Environments,May 2015,Assess
-APIs as a product,Nov 2016,Trial
-Humane registry,Jan 2015,Trial
-Humane registry,Jul 2014,Trial
-User centered design,Jan 2010,Adopt
-ASP,Aug 2010,Adopt
-ASP,Apr 2010,Adopt
-ASP,Jan 2010,Adopt
-Canary builds,May 2015,Trial
-Canary builds,Jan 2015,Trial
-Apache Kylin,Nov 2015,Assess
-Apache Kylin,May 2015,Assess
-Datomic,May 2013,Assess
-Datomic,Oct 2012,Assess
-Domain-specific PaaS,Oct 2012,Trial
-Domain-specific PaaS,Mar 2012,Trial
-Docker for builds,Nov 2015,Trial
-Nomad,Nov 2016,Assess
-Nomad,Apr 2016,Assess
-Handwritten CSS,Jul 2014,Hold
-Handwritten CSS,Jan 2014,Hold
-Handwritten CSS,May 2013,Hold
-Core Async,Jan 2015,Trial
-Core Async,Jul 2014,Trial
-JSONassert,Nov 2016,Trial
-Experience Design (XD),Mar 2012,Assess
-Caching reverse proxies,Jul 2011,Adopt
-Ionic Framework,May 2015,Trial
-Ionic Framework,Jan 2015,Trial
-Linux security modules,Nov 2016,Adopt
-Linux security modules,Apr 2016,Trial
-Linux security modules,Nov 2015,Assess
-Linux security modules,May 2015,Assess
-Linux security modules,Jan 2015,Assess
-Guerrilla user testing,May 2013,Adopt
-Guerrilla user testing,Oct 2012,Adopt
-Crazy Egg,Oct 2012,Assess
-Visual Studio Code,Nov 2015,Assess
-Exhaustive browser based testing,May 2013,Hold
-Exhaustive browser based testing,Oct 2012,Hold
-Lean software development,Apr 2010,Trial
-Lean software development,Jan 2010,Trial
-Silverback,Oct 2012,Adopt
-Spring Boot,Nov 2016,Adopt
-Spring Boot,Apr 2016,Adopt
-Spring Boot,Nov 2015,Trial
-Spring Boot,May 2015,Trial
-Spring Boot,Jan 2015,Assess
-Spring Boot,Jul 2014,Assess
-Rancher,Nov 2016,Trial
-Rancher,Apr 2016,Trial
-Rancher,Nov 2015,Assess
-Redux,Nov 2016,Adopt
-Redux,Apr 2016,Trial
-Blockchain beyond bitcoin,May 2015,Assess
-Blockchain beyond bitcoin,Jan 2015,Assess
-Vagrant,Oct 2012,Trial
-Vagrant,Mar 2012,Trial
-Vagrant,Jul 2011,Assess
-Vagrant,Jan 2011,Assess
-TestFlight & HockeyApp,May 2013,Trial
-Postman,Nov 2015,Adopt
-Postman,May 2015,Adopt
-Postman,Jan 2015,Trial
-Vert.x,Oct 2012,Assess
-Local storage sync,May 2015,Trial
-Local storage sync,Jan 2015,Trial
-Galen,Nov 2016,Trial
-Fetch,Apr 2016,Trial
-Unity beyond gaming,Nov 2016,Trial
-Akka,Jan 2014,Assess
-Ant,Jul 2014,Hold
-Ant,Jan 2014,Hold
-OkHttp,Apr 2016,Assess
-OkHttp,Nov 2015,Assess
-Hipster batch,Jan 2015,Trial
-HAL,Jan 2015,Trial
-HAL,Jul 2014,Trial
-Unikernels,Nov 2016,Assess
-Unikernels,Apr 2016,Assess
-Neo4J,Jan 2014,Adopt
-Neo4J,May 2013,Adopt
-Neo4J,Oct 2012,Adopt
-Neo4J,Aug 2010,Trial
-Neo4J,Apr 2010,Trial
-VCS with “implicit workflow”,Oct 2012,Hold
-VCS with “implicit workflow”,Mar 2012,Hold
-VCS with “implicit workflow”,Jul 2011,Hold
-Browser-based templating,May 2013,Assess
-Long lived branches with Gitflow,May 2015,Hold
-Long lived branches with Gitflow,Jan 2015,Hold
-Facebook as business platform,Jan 2011,Trial
-Facebook as business platform,Aug 2010,Trial
-Facebook as business platform,Apr 2010,Assess
-Terraform,Nov 2016,Trial
-Terraform,Jan 2015,Assess
-Visualizations for business data,Apr 2010,Assess
-Provisioning testing,Jul 2014,Trial
-Provisioning testing,Jan 2014,Trial
-Gatling,Jan 2014,Trial
-Gatling,May 2013,Trial
-Node.js,Jan 2014,Adopt
-Node.js,May 2013,Trial
-Node.js,Oct 2012,Trial
-Node.js,Mar 2012,Assess
-Node.js,Jul 2011,Assess
-Node.js,Jan 2011,Assess
-Logs as data,May 2013,Trial
-Logs as data,Oct 2012,Trial
-React Native,Nov 2016,Trial
-React Native,Apr 2016,Trial
-React Native,Nov 2015,Assess
-Responsive web design,May 2013,Trial
-Responsive web design,Oct 2012,Trial
-Gradle,May 2013,Adopt
-Gradle,Oct 2012,Trial
-Gradle,Mar 2012,Assess
-Gradle,Jul 2011,Assess
-Web Components standard,Jul 2014,Assess
-Web Components standard,Jan 2014,Assess
-Xamarin,May 2015,Trial
-Xamarin,Jan 2015,Trial
-Xamarin,Jul 2014,Assess
-Xamarin,Jan 2014,Assess
-Decoupling deployment from release,Apr 2016,Adopt
-Decoupling deployment from release,Nov 2015,Adopt
-Deis,Nov 2015,Assess
-Deis,May 2015,Assess
-PSake,May 2013,Adopt
-PSake,Oct 2012,Trial
-PSake,Mar 2012,Trial
-ReSwift,Nov 2016,Assess
-OWIN,Jan 2014,Assess
-OWIN,May 2013,Assess
-vFabric,Mar 2012,Assess
-vFabric,Jul 2011,Assess
-vFabric,Jan 2011,Assess
-"Scratch, Alice, and Kodu",May 2013,Trial
-"Scratch, Alice, and Kodu",Oct 2012,Trial
-Server / application container end-of-life,Mar 2012,Hold
-RDF triple stores,Jan 2011,Assess
-RDF triple stores,Aug 2010,Assess
-Focus on mean time to recovery,May 2015,Adopt
-Focus on mean time to recovery,Jan 2015,Adopt
-Focus on mean time to recovery,Jul 2014,Trial
-Focus on mean time to recovery,Jan 2014,Assess
-Focus on mean time to recovery,May 2013,Assess
-Graphite,May 2013,Adopt
-Graphite,Oct 2012,Adopt
-OpenStack,Jan 2014,Trial
-OpenStack,May 2013,Trial
-OpenStack,Jul 2011,Assess
-OpenStack,Jan 2011,Assess
-R as Compute Platform,Jan 2015,Trial
-R as Compute Platform,Jul 2014,Trial
-Pivotal Cloud Foundry,Nov 2016,Trial
-Pivotal Cloud Foundry,Apr 2016,Trial
-Squid,Jan 2011,Adopt
-Squid,Aug 2010,Adopt
-Squid,Apr 2010,Adopt
-Vue.js,Nov 2016,Assess
-Anemic REST,Nov 2016,Hold
-Material UI,Nov 2015,Assess
-Pact & Pacto,Jan 2015,Trial
-Pact & Pacto,Jul 2014,Trial
-pdfmake,May 2015,Assess
-Ubiquitous computing,Mar 2012,Trial
-Ubiquitous computing,Jul 2011,Trial
 MongoDB,Jan 2014,Adopt
 MongoDB,May 2013,Adopt
 MongoDB,Oct 2012,Trial
 MongoDB,Aug 2010,Trial
 MongoDB,Apr 2010,Trial
-Elixir,Nov 2016,Trial
-Elixir,Apr 2016,Assess
-Elixir,Jan 2014,Assess
-Treating VMs like physical infrastructure,Mar 2012,Hold
-Mapbox,Jan 2015,Assess
-Mapbox,Jul 2014,Assess
-LambdaCD,Nov 2016,Assess
-LambdaCD,Apr 2016,Assess
-Hystrix,Jan 2014,Trial
-Hystrix,May 2013,Assess
-Ruby,Jan 2011,Adopt
-Ruby,Aug 2010,Adopt
-Twitter Bootstrap,May 2013,Assess
-Twitter Bootstrap,Oct 2012,Trial
+Provisioning testing,Jul 2014,Trial
+Provisioning testing,Jan 2014,Trial
+Structured logging,May 2015,Adopt
+Structured logging,Jan 2015,Adopt
+Structured logging,Jul 2014,Trial
+Structured logging,Jan 2014,Trial
+Carthage,Apr 2016,Trial
+Carthage,Nov 2015,Trial
+OWASP Dependency-Check,Nov 2016,Trial
+OWASP Dependency-Check,Apr 2016,Trial
+Component-based frameworks,May 2013,Hold
+Component-based frameworks,Oct 2012,Hold
+Presto,Apr 2016,Assess
+Presto,Nov 2015,Assess
+Google Wave,Jan 2010,Hold
+A single CI instance for all teams,Nov 2016,Hold
+A single CI instance for all teams,Apr 2016,Hold
+.NET Core,Nov 2016,Assess
+.NET Core,Nov 2015,Assess
+.NET Core,May 2015,Assess
+Swagger,May 2015,Trial
+Swagger,Jan 2015,Trial
+Swagger,Jul 2014,Assess
+Windows infrastructure automation,Jan 2014,Adopt
+Windows infrastructure automation,May 2013,Adopt
+Windows infrastructure automation,Oct 2012,Adopt
+Windows infrastructure automation,Mar 2012,Trial
+Mesosphere DCOS,Apr 2016,Assess
+Mesosphere DCOS,Nov 2015,Assess
+ClojureScript,May 2013,Assess
+ClojureScript,Oct 2012,Assess
+ClojureScript,Mar 2012,Assess
+wit.ai,Nov 2016,Assess
+Threat Modeling,Nov 2016,Adopt
+Threat Modeling,Apr 2016,Adopt
+Threat Modeling,Nov 2015,Adopt
+Threat Modeling,May 2015,Trial
+Ant,Jul 2014,Hold
+Ant,Jan 2014,Hold
 Deltacloud,Jul 2011,Assess
 Deltacloud,Jan 2011,Assess
-Haskell Hadoop library,May 2015,Assess
-Haskell Hadoop library,Jan 2015,Assess
-Enlive,Apr 2016,Trial
-Enlive,Nov 2015,Trial
-Scikit-learn,Nov 2016,Assess
-Lightweight Architecture Decision Records,Nov 2016,Trial
-Jade,Oct 2012,Trial
-Jade,Mar 2012,Trial
-Swift,Apr 2016,Adopt
-Swift,Nov 2015,Adopt
-Swift,May 2015,Assess
-Swift,Jan 2015,Assess
-Locust,May 2013,Trial
-Locust,Oct 2012,Trial
-WebRTC,Nov 2016,Assess
-Spray/akka-http,Jul 2014,Assess
+Client-side MVC,Mar 2012,Trial
+UIAutomator,May 2013,Assess
+Functional Java,Mar 2012,Assess
+Guerrilla user testing,May 2013,Adopt
+Guerrilla user testing,Oct 2012,Adopt
+Crazy Egg,Oct 2012,Assess
+Test at the appropriate level,Mar 2012,Adopt
+Polyglot Persistence,Oct 2012,Trial
+Polyglot Persistence,Mar 2012,Trial
+Capture domain events explicitly,Jul 2014,Trial
+Capture domain events explicitly,Jan 2014,Trial
+Velocity as productivity,Jan 2015,Hold
+Velocity as productivity,Jul 2014,Hold
+Velocity as productivity,Jan 2014,Hold
+Gremlin,May 2013,Assess
+Gremlin,Oct 2012,Assess
+Realm,Nov 2016,Trial
+Realm,Apr 2016,Assess
+Puppet,Aug 2010,Trial
+Chrome,Jan 2010,Assess
+QA in production,Apr 2016,Trial
+QA in production,Nov 2015,Trial
+HTML5 storage instead of cookies,Jan 2014,Trial
+HTML5 storage instead of cookies,May 2013,Trial
+Jekyll,May 2013,Trial
+Jekyll,Oct 2012,Trial
+Traveling Ruby,Nov 2015,Assess
 TOTP Two-Factor Authentication,Apr 2016,Adopt
 TOTP Two-Factor Authentication,Nov 2015,Adopt
 TOTP Two-Factor Authentication,May 2015,Trial
 TOTP Two-Factor Authentication,Jan 2015,Assess
 TOTP Two-Factor Authentication,Jul 2014,Assess
-OWASP Dependency-Check,Nov 2016,Trial
-OWASP Dependency-Check,Apr 2016,Trial
-HyperResource,Nov 2015,Assess
-SignalR,Apr 2016,Trial
-SignalR,Nov 2015,Trial
-Browsersync,Apr 2016,Trial
-Browsersync,Nov 2015,Trial
-Chrome OS,Jan 2010,Assess
-Single command deploy,Mar 2012,Trial
-Meteor.js,Oct 2012,Hold
-Sensu,Nov 2015,Trial
-Sensu,Jan 2014,Assess
-Masterless Chef/Puppet,Jul 2014,Trial
-Masterless Chef/Puppet,Jan 2014,Trial
-NuGet,May 2013,Adopt
-NuGet,Oct 2012,Trial
-NuGet,Mar 2012,Trial
-Apache Spark,Nov 2015,Trial
-Apache Spark,May 2015,Trial
-Apache Spark,Jan 2015,Assess
-Apache Spark,Jul 2014,Assess
-Puppet,Aug 2010,Trial
-PowerShell,Mar 2012,Trial
-PowerShell,Jul 2011,Trial
-Yeoman,Jan 2014,Assess
-Zepto.js,May 2013,Assess
-Logstash & Graylog2,Jan 2014,Trial
-Logstash & Graylog2,May 2013,Trial
-Java portal servers,Oct 2012,Hold
-Java portal servers,Mar 2012,Hold
-Java portal servers,Jul 2011,Hold
-Generated infrastructure diagrams,Nov 2015,Adopt
-Generated infrastructure diagrams,May 2015,Adopt
-PostgreSQL for NoSQL,Jul 2014,Trial
-PostgreSQL for NoSQL,Jan 2014,Trial
-PostgreSQL for NoSQL,May 2013,Assess
-jQuery Mobile,Mar 2012,Assess
-jQuery Mobile,Jul 2011,Assess
-REST-assured,Nov 2015,Trial
-REST-assured,May 2015,Trial
-U2F,May 2015,Assess
-U2F,Jan 2015,Assess
-FPM,Mar 2012,Trial
-Zucchini,Oct 2012,Assess
-Low-cost robotics,Jul 2014,Assess
-Low-cost robotics,Jan 2014,Assess
-Test at the appropriate level,Mar 2012,Adopt
-Nuance Mix,Nov 2016,Assess
-Vumi,Jul 2014,Adopt
-Vumi,Jan 2014,Trial
-Vumi,May 2013,Assess
-Firefox,Jan 2010,Adopt
-CoAP,Jan 2015,Assess
-CoAP,Jul 2014,Assess
-Logic-free markup,Oct 2012,Assess
-Logic-free markup,Mar 2012,Assess
-Functional Java,Mar 2012,Assess
-Flight.js,May 2015,Assess
-Flight.js,Jan 2015,Assess
-Jasmine paired with Node.js,May 2013,Adopt
-Jasmine paired with Node.js,Oct 2012,Adopt
-Micro frontends,Nov 2016,Assess
-Let's Encrypt,Nov 2016,Trial
-Let's Encrypt,Apr 2016,Trial
-Let's Encrypt,Nov 2015,Assess
-Splunk,Jul 2011,Trial
-Splunk,Jan 2011,Trial
-Non-relational databases,Jan 2010,Trial
-PhoneGap/Apache Cordova,Jan 2014,Assess
-PhoneGap/Apache Cordova,May 2013,Assess
+ASP,Aug 2010,Adopt
+ASP,Apr 2010,Adopt
+ASP,Jan 2010,Adopt
+Message buses without smarts,Mar 2012,Trial
+Message buses without smarts,Jul 2011,Trial
+Message buses without smarts,Jan 2011,Trial
+Message buses without smarts,Aug 2010,Trial
+Message buses without smarts,Apr 2010,Trial
 Perimeterless enterprise,Jul 2014,Trial
 Perimeterless enterprise,Jan 2014,Trial
 Perimeterless enterprise,May 2013,Trial
@@ -1314,48 +1162,200 @@ Next-generation test tools,Jan 2011,Trial
 Next-generation test tools,Aug 2010,Trial
 Next-generation test tools,Apr 2010,Trial
 Next-generation test tools,Jan 2010,Assess
-Communication between those responsible for hardware and software,Mar 2012,Adopt
-tmate,Nov 2016,Trial
-Traveling Ruby,Nov 2015,Assess
-CMS as a platform,Nov 2016,Hold
-CMS as a platform,Jan 2015,Hold
-CMS as a platform,Jul 2014,Hold
-CMS as a platform,Jan 2014,Hold
-RIA,Mar 2012,Hold
-RIA,Jan 2011,Hold
-RIA,Aug 2010,Hold
-RIA,Apr 2010,Hold
-RIA,Jan 2010,Assess
-AppCode,Oct 2012,Adopt
-Promises for asynchronous programming,May 2013,Adopt
-EventStore,Jan 2015,Assess
-EventStore,Jul 2014,Assess
-Threat Modeling,Nov 2016,Adopt
-Threat Modeling,Apr 2016,Adopt
-Threat Modeling,Nov 2015,Adopt
-Threat Modeling,May 2015,Trial
-GPGPU,Mar 2012,Assess
-GPGPU,Jul 2011,Assess
-GPGPU,Jan 2011,Assess
-GPGPU,Aug 2010,Assess
+Generated infrastructure diagrams,Nov 2015,Adopt
+Generated infrastructure diagrams,May 2015,Adopt
+OkHttp,Apr 2016,Assess
+OkHttp,Nov 2015,Assess
+Pointer Events,Jul 2014,Assess
+Pointer Events,Jan 2014,Assess
+Pivotal Cloud Foundry,Nov 2016,Trial
+Pivotal Cloud Foundry,Apr 2016,Trial
+Phoenix Environments,Apr 2016,Trial
+Phoenix Environments,Nov 2015,Trial
+Phoenix Environments,May 2015,Assess
+Deflect,Apr 2016,Assess
+Unikernels,Nov 2016,Assess
+Unikernels,Apr 2016,Assess
+SMS and USSD as a UI,Jan 2014,Adopt
+SMS and USSD as a UI,May 2013,Adopt
+Iterative data warehousing,Jul 2011,Trial
+Iterative data warehousing,Aug 2010,Assess
+Iterative data warehousing,Apr 2010,Assess
+Iterative data warehousing,Jan 2010,Assess
+Splunk,Jul 2011,Trial
+Splunk,Jan 2011,Trial
+Material UI,Nov 2015,Assess
+Time series databases,Nov 2015,Assess
+Time series databases,May 2015,Assess
+Database migrations for NoSQL,May 2013,Trial
+AWS,Mar 2012,Adopt
+AWS,Jul 2011,Adopt
+Procedure oriented integration,Jul 2011,Hold
+Jasmine paired with Node.js,May 2013,Adopt
+Jasmine paired with Node.js,Oct 2012,Adopt
+Build pipelines,Jan 2011,Adopt
+Build pipelines,Aug 2010,Adopt
+Build pipelines,Apr 2010,Adopt
+Build pipelines,Jan 2010,Adopt
+Light Table,May 2013,Assess
+Light Table,Oct 2012,Assess
+NoPSD,Nov 2015,Adopt
+NoPSD,May 2015,Trial
+NoPSD,Jan 2015,Trial
+SPDY,Nov 2015,Hold
+SPDY,May 2015,Hold
+SPDY,Jul 2014,Assess
+SPDY,Jan 2014,Assess
+LambdaCD,Nov 2016,Assess
+LambdaCD,Apr 2016,Assess
+Hadoop as a service,Jan 2014,Trial
+Swift,Apr 2016,Adopt
+Swift,Nov 2015,Adopt
+Swift,May 2015,Assess
+Swift,Jan 2015,Assess
+Python 3,Jul 2014,Assess
+Python 3,Jan 2014,Assess
+Feature branching,Oct 2012,Hold
+Feature branching,Mar 2012,Hold
+Feature branching,Jul 2011,Hold
+Java 8,Jan 2015,Adopt
+Java 8,Jul 2014,Adopt
+Frank,May 2013,Adopt
+Frank,Oct 2012,Trial
+Frank,Mar 2012,Trial
+Tailored Service Template,Jan 2015,Trial
+Tailored Service Template,Jul 2014,Trial
+Out-of-container functional testing,Oct 2012,Trial
+Out-of-container functional testing,Mar 2012,Trial
+Log aggregation & indexing,Mar 2012,Trial
+vFabric,Mar 2012,Assess
+vFabric,Jul 2011,Assess
+vFabric,Jan 2011,Assess
+CoAP,Jan 2015,Assess
+CoAP,Jul 2014,Assess
+Event Storming,Apr 2016,Trial
+Event Storming,Nov 2015,Trial
+Analyzing test runs,May 2013,Trial
+Visual Studio Code,Nov 2015,Assess
+Rust,Jan 2015,Assess
+Rust,Jul 2014,Assess
+Database based integration,Oct 2012,Hold
+Database based integration,Mar 2012,Hold
+Database based integration,Jul 2011,Hold
+Database based integration,Jan 2011,Hold
+Database based integration,Aug 2010,Hold
+SDN,May 2015,Assess
+SDN,Jan 2015,Assess
+Snowplow Analytics & Piwik,Jan 2015,Trial
+Snowplow Analytics & Piwik,Jul 2014,Trial
+Snowplow Analytics & Piwik,Jan 2014,Trial
+Snowplow Analytics & Piwik,May 2013,Assess
+NuGet,May 2013,Adopt
+NuGet,Oct 2012,Trial
+NuGet,Mar 2012,Trial
+Spring Boot,Nov 2016,Adopt
+Spring Boot,Apr 2016,Adopt
+Spring Boot,Nov 2015,Trial
+Spring Boot,May 2015,Trial
+Spring Boot,Jan 2015,Assess
+Spring Boot,Jul 2014,Assess
+Non-relational databases,Jan 2010,Trial
+Build your own radar,Mar 2012,Trial
+Build your own radar,Jul 2011,Trial
+Production immune system,Mar 2012,Assess
+leaflet.js,Jan 2015,Assess
+leaflet.js,Jul 2014,Assess
+Property-based unit testing,Jul 2014,Assess
+Jepsen,Apr 2016,Assess
+Recharts,Nov 2016,Assess
+Recharts,Apr 2016,Assess
+Git,Mar 2012,Adopt
+Git,Jul 2011,Adopt
+Git,Jan 2011,Trial
+Git,Aug 2010,Trial
+Reactive architectures,Nov 2016,Trial
+Reactive architectures,Apr 2016,Trial
+Reactive architectures,Nov 2015,Assess
+Reactive architectures,May 2015,Assess
+Flight.js,May 2015,Assess
+Flight.js,Jan 2015,Assess
+TensorFlow,Nov 2016,Assess
+TensorFlow,Apr 2016,Assess
+PowerShell,Mar 2012,Trial
+PowerShell,Jul 2011,Trial
+C# 4.0,Jan 2011,Adopt
+C# 4.0,Aug 2010,Adopt
+C# 4.0,Apr 2010,Adopt
+C# 4.0,Jan 2010,Trial
+Linux security modules,Nov 2016,Adopt
+Linux security modules,Apr 2016,Trial
+Linux security modules,Nov 2015,Assess
+Linux security modules,May 2015,Assess
+Linux security modules,Jan 2015,Assess
+Heavyweight test tools,Jan 2014,Hold
+Heavyweight test tools,May 2013,Hold
+Vumi,Jul 2014,Adopt
+Vumi,Jan 2014,Trial
+Vumi,May 2013,Assess
+Talisman,Nov 2016,Trial
+Sinatra,Jan 2014,Adopt
+Sinatra,May 2013,Adopt
+Sinatra,Oct 2012,Trial
+Riak,May 2013,Trial
+Riak,Oct 2012,Trial
+Riak,Mar 2012,Assess
+SysDig,Apr 2016,Trial
+SysDig,Nov 2015,Trial
+TLA+,Nov 2015,Assess
+Acceptance test of journeys,Mar 2012,Trial
+Acceptance test of journeys,Jul 2011,Trial
+Acceptance test of journeys,Jan 2011,Trial
+Concurrent languages,Jan 2010,Assess
+Single command deploy,Mar 2012,Trial
+Immutable servers,May 2013,Adopt
+Immutable servers,Oct 2012,Adopt
+Google App Engine,Aug 2010,Assess
+Google App Engine,Apr 2010,Assess
+Fastly,Nov 2015,Trial
+Load Impact,Nov 2016,Trial
+Load Impact,Apr 2016,Trial
+Long lived branches with Gitflow,May 2015,Hold
+Long lived branches with Gitflow,Jan 2015,Hold
+OAuth,Jul 2011,Assess
+OAuth,Jan 2011,Assess
+OAuth,Aug 2010,Assess
+OAuth,Apr 2010,Assess
+Terraform,Nov 2016,Trial
+Terraform,Jan 2015,Assess
+Test recorders,Oct 2012,Hold
+Test recorders,Mar 2012,Hold
+Humane registry,Jan 2015,Trial
+Humane registry,Jul 2014,Trial
+OpenStack,Jan 2014,Trial
+OpenStack,May 2013,Trial
+OpenStack,Jul 2011,Assess
+OpenStack,Jan 2011,Assess
+MariaDB,May 2015,Assess
+MariaDB,Jan 2015,Assess
+Clojure,Jan 2014,Adopt
+Clojure,May 2013,Adopt
+Clojure,Oct 2012,Adopt
+Clojure,Mar 2012,Trial
+Clojure,Jul 2011,Assess
+Clojure,Jan 2011,Assess
+Clojure,Aug 2010,Assess
+Clojure,Apr 2010,Assess
+Jackrabbit Oak,May 2015,Assess
+Jackrabbit Oak,Jan 2015,Assess
 "SASS, SCSS, LESS, and Stylus",Oct 2012,Adopt
 "SASS, SCSS, LESS, and Stylus",Mar 2012,Trial
 "SASS, SCSS, LESS, and Stylus",Jul 2011,Trial
 "SASS, SCSS, LESS, and Stylus",Jan 2011,Trial
-Heavyweight test tools,Jan 2014,Hold
-Heavyweight test tools,May 2013,Hold
-Cylon.js,Apr 2016,Assess
-TFS,Jul 2014,Hold
-TFS,Jan 2014,Hold
-TFS,May 2013,Hold
-Librarian-puppet and Librarian-Chef,Jan 2014,Trial
-Librarian-puppet and Librarian-Chef,May 2013,Trial
-Private Clouds,Jul 2014,Trial
-Private Clouds,Jan 2014,Assess
-Private Clouds,Oct 2012,Trial
-Private Clouds,Mar 2012,Trial
-GraphQL,Nov 2016,Assess
-GraphQL,Apr 2016,Assess
-Time series databases,Nov 2015,Assess
-Time series databases,May 2015,Assess
-Three.js,Nov 2016,Assess
+Tablet,Mar 2012,Trial
+Tablet,Jul 2011,Trial
+Tablet,Jan 2011,Trial
+Tablet,Aug 2010,Assess
+Cross-platform mobile toolkits,Mar 2012,Hold
+Cross-platform mobile toolkits,Jul 2011,Hold
+Pinpoint,Nov 2016,Assess
+Pinpoint,Apr 2016,Assess

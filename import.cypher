@@ -6,7 +6,7 @@ MERGE (position2:Position {value: pos2})
 MERGE (position1)-[:NEXT]->(position2);
 
 
-load csv with headers from "file:///blips.csv" AS row
+load csv with headers from "file:///entries.csv" AS row
 MATCH (position:Position {value:  row.suggestion })
 MERGE (tech:Technology {name:  row.technology })
 MERGE (date:Date {value: row.date})

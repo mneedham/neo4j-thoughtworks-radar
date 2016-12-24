@@ -12,6 +12,7 @@ func main() {
 	defer close(filesToScrape)
 	defer close(filesScraped)
 
+	// wget https://www.thoughtworks.com/radar/a-z -O rawData/twRadar.html
 	blips := scrape.FindBlips("rawData/twRadar.html")
 
 	for _, blip := range blips {

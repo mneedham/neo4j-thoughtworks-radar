@@ -11,6 +11,7 @@ func main() {
 	var filesCompleted chan scrape.ScrapedFile = make(chan scrape.ScrapedFile)
 	defer close(filesCompleted)
 
+	// wget https://www.thoughtworks.com/radar/a-z -O rawData/twRadar.html 
 	blips := scrape.FindBlips("rawData/twRadar.html")
 
 	var filesToScrape []scrape.File
